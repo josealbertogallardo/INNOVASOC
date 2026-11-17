@@ -9,6 +9,7 @@ desktop.ini
 # Editores
 .vscode/
 .idea/
+.claude/
 
 # Dependencias / builds (por si se añaden en el futuro)
 node_modules/
