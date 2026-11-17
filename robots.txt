@@ -1,0 +1,48 @@
+# robots.txt · INNOVASOC (Grupo de Investigación en Innovación Socioeducativa, PAIDI SEJ696)
+#
+# IMPORTANTE: los rastreadores solo leen robots.txt en la RAÍZ del dominio
+# (p. ej. https://ejemplo.org/robots.txt). Mientras la web esté en GitHub Pages
+# como sitio de proyecto (https://josealbertogallardo.github.io/INNOVASOC/),
+# este archivo NO es el robots.txt efectivo del dominio. Queda preparado para
+# cuando se use un dominio propio. Ver README.md, sección "SEO e indexación".
+
+# Buscadores
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+# Buscadores y asistentes de IA
+User-agent: GPTBot
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-SearchBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+# Resto de rastreadores
+User-agent: *
+Allow: /
+
+Sitemap: https://josealbertogallardo.github.io/INNOVASOC/sitemap.xml

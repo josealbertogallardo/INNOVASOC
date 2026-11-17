@@ -3,19 +3,250 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>INNOVASOC · Grupo de Investigación en Innovación Socioeducativa (PAIDI SEJ696)</title>
-  <meta name="description" content="INNOVASOC (PAIDI SEJ696), Grupo de Investigación en Innovación Socioeducativa de la Universidad Pablo de Olavide, Sevilla.">
-  <link rel="icon" type="image/png" href="assets/img/favicon.png">
+  <!--
+    SEO: la URL base del sitio aparece en este <head> (canonical, hreflang, og:*, twitter:*, JSON-LD)
+    y en sitemap.xml, robots.txt, llms.txt y llms-full.txt. Al migrar a dominio propio,
+    sustituye en todos ellos "https://josealbertogallardo.github.io/INNOVASOC/" por la nueva URL
+    (ver README.md, sección "SEO e indexación").
+  -->
+  <title>INNOVASOC · Grupo de Investigación en Innovación Socioeducativa (PAIDI SEJ696) · Universidad Pablo de Olavide</title>
+  <meta name="description" content="INNOVASOC (PAIDI SEJ696) es el grupo de investigación en innovación socioeducativa de la Universidad Pablo de Olavide (Sevilla): educación social, pedagogía social, inclusión educativa, educación emocional y para la salud, ocio e intervención socioeducativa.">
+  <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
+  <link rel="canonical" href="https://josealbertogallardo.github.io/INNOVASOC/">
+  <link rel="alternate" hreflang="es" href="https://josealbertogallardo.github.io/INNOVASOC/">
+  <link rel="alternate" hreflang="x-default" href="https://josealbertogallardo.github.io/INNOVASOC/">
+  <meta name="author" content="Grupo de Investigación INNOVASOC (PAIDI SEJ696)">
+  <meta name="theme-color" content="#0E4A4C">
+
+  <!-- Verificación de buscadores: pega aquí las metaetiquetas que te den Google Search Console y Bing Webmaster Tools.
+       Ejemplos (sustituye XXXX por tu código; no los dejes con XXXX):
+       <meta name="google-site-verification" content="XXXX">
+       <meta name="msvalidate.01" content="XXXX">
+  -->
+
+  <!-- Open Graph -->
+  <meta property="og:type" content="website">
+  <meta property="og:locale" content="es_ES">
+  <meta property="og:site_name" content="INNOVASOC · Grupo de Investigación en Innovación Socioeducativa">
+  <meta property="og:title" content="INNOVASOC · Grupo de Investigación en Innovación Socioeducativa (PAIDI SEJ696)">
+  <meta property="og:description" content="Grupo de investigación de la Universidad Pablo de Olavide (Sevilla) en innovación socioeducativa, educación social, pedagogía social e inclusión educativa.">
+  <meta property="og:url" content="https://josealbertogallardo.github.io/INNOVASOC/">
+  <meta property="og:image" content="https://josealbertogallardo.github.io/INNOVASOC/assets/img/og-image.png">
+  <meta property="og:image:type" content="image/png">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:image:alt" content="Logotipo de INNOVASOC, Grupo de Investigación en Innovación Socioeducativa">
+
+  <!-- Twitter / X Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="INNOVASOC · Grupo de Investigación en Innovación Socioeducativa (PAIDI SEJ696)">
+  <meta name="twitter:description" content="Grupo de investigación de la Universidad Pablo de Olavide (Sevilla) en innovación socioeducativa, educación social, pedagogía social e inclusión educativa.">
+  <meta name="twitter:image" content="https://josealbertogallardo.github.io/INNOVASOC/assets/img/og-image.png">
+  <meta name="twitter:image:alt" content="Logotipo de INNOVASOC, Grupo de Investigación en Innovación Socioeducativa">
+
+  <link rel="icon" type="image/png" sizes="48x48" href="assets/img/favicon-48.png">
+  <link rel="icon" type="image/png" sizes="192x192" href="assets/img/favicon-192.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="assets/img/apple-touch-icon.png">
+  <link rel="preload" as="image" href="assets/img/hero.jpg">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700&family=Sora:wght@600;700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="assets/css/styles.css">
+
+  <!-- Datos estructurados (schema.org). URL base: https://josealbertogallardo.github.io/INNOVASOC/ -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "ResearchOrganization",
+        "@id": "https://josealbertogallardo.github.io/INNOVASOC/#organization",
+        "name": "INNOVASOC",
+        "legalName": "Grupo de Investigación en Innovación Socioeducativa",
+        "alternateName": [
+          "Grupo de Investigación en Innovación Socioeducativa",
+          "INNOVASOC (SEJ696)",
+          "Grupo PAIDI SEJ696"
+        ],
+        "description": "Grupo de investigación de la Universidad Pablo de Olavide (Sevilla), adscrito al Departamento de Educación y Psicología Social y reconocido en el Plan Andaluz de Investigación, Desarrollo e Innovación (PAIDI) de la Junta de Andalucía con el código SEJ696. Investiga los procesos educativos y sociales para contribuir a transformarlos desde la innovación, la equidad y la participación.",
+        "url": "https://josealbertogallardo.github.io/INNOVASOC/",
+        "logo": {
+          "@type": "ImageObject",
+          "@id": "https://josealbertogallardo.github.io/INNOVASOC/#logo",
+          "url": "https://josealbertogallardo.github.io/INNOVASOC/assets/img/logo-negativo.png",
+          "contentUrl": "https://josealbertogallardo.github.io/INNOVASOC/assets/img/logo-negativo.png",
+          "width": 1279,
+          "height": 1279,
+          "caption": "INNOVASOC"
+        },
+        "image": "https://josealbertogallardo.github.io/INNOVASOC/assets/img/og-image.png",
+        "foundingDate": "2024-02-03",
+        "identifier": {
+          "@type": "PropertyValue",
+          "propertyID": "Código PAIDI (Junta de Andalucía)",
+          "value": "SEJ696"
+        },
+        "email": "flopnog@upo.es",
+        "contactPoint": [
+          {
+            "@type": "ContactPoint",
+            "contactType": "información del grupo",
+            "email": "flopnog@upo.es",
+            "availableLanguage": "es"
+          },
+          {
+            "@type": "ContactPoint",
+            "contactType": "información del grupo",
+            "email": "josealberto.gallardo@uca.es",
+            "availableLanguage": "es"
+          }
+        ],
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Sevilla",
+          "addressRegion": "Andalucía",
+          "addressCountry": "ES"
+        },
+        "parentOrganization": {
+          "@type": "CollegeOrUniversity",
+          "@id": "https://www.upo.es/#university",
+          "name": "Universidad Pablo de Olavide",
+          "url": "https://www.upo.es/",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Sevilla",
+            "addressCountry": "ES"
+          }
+        },
+        "sameAs": [
+          "https://investiga.upo.es/grupos/197641/detalle"
+        ],
+        "knowsAbout": [
+          "Educación ambiental",
+          "Educación para la salud",
+          "Innovación educativa y nuevas tecnologías aplicadas a la educación",
+          "Intervención socioeducativa",
+          "Ocio y tiempo libre",
+          "Inclusión educativa, interculturalidad y atención a la diversidad",
+          "Desarrollo comunitario y animación sociocultural",
+          "Pedagogía social y educación social",
+          "Metodologías participativas",
+          "Ciudadanía y participación social",
+          "Educación emocional",
+          "Educación para el desarrollo y la cohesión social"
+        ],
+        "member": [
+          {
+            "@type": "Person",
+            "@id": "https://orcid.org/0000-0002-1124-8613",
+            "name": "Fernando López Noguero",
+            "jobTitle": "Profesor Titular de Universidad; responsable del grupo INNOVASOC",
+            "affiliation": { "@id": "https://www.upo.es/#university" },
+            "sameAs": [
+              "https://orcid.org/0000-0002-1124-8613",
+              "https://investiga.upo.es/investigadores/158743/detalle"
+            ]
+          },
+          {
+            "@type": "Person",
+            "@id": "https://orcid.org/0000-0003-3243-1676",
+            "name": "Jose Alberto Gallardo López",
+            "jobTitle": "Profesor Permanente Laboral",
+            "affiliation": { "@type": "CollegeOrUniversity", "name": "Universidad de Cádiz", "url": "https://www.uca.es/" },
+            "sameAs": [
+              "https://orcid.org/0000-0003-3243-1676",
+              "https://produccioncientifica.uca.es/investigadores/275549/publicaciones"
+            ]
+          },
+          {
+            "@type": "Person",
+            "@id": "https://orcid.org/0000-0002-9012-9881",
+            "name": "Juan Agustín Morón Marchena",
+            "jobTitle": "Profesor Titular de Universidad",
+            "affiliation": { "@id": "https://www.upo.es/#university" },
+            "sameAs": [
+              "https://orcid.org/0000-0002-9012-9881",
+              "https://investiga.upo.es/investigadores/160548/detalle"
+            ]
+          },
+          {
+            "@type": "Person",
+            "@id": "https://orcid.org/0000-0001-6000-8424",
+            "name": "Irene García Lázaro",
+            "jobTitle": "Profesora",
+            "affiliation": { "@type": "CollegeOrUniversity", "name": "Universidad de Sevilla", "url": "https://www.us.es/" },
+            "sameAs": [
+              "https://orcid.org/0000-0001-6000-8424",
+              "https://prisma.us.es/investigador/7021"
+            ]
+          },
+          {
+            "@type": "Person",
+            "@id": "https://orcid.org/0000-0003-3422-518X",
+            "name": "David Muñoz Villaraviz",
+            "jobTitle": "Profesor",
+            "affiliation": { "@type": "School", "name": "CEIP San José Obrero (Sevilla)" },
+            "sameAs": [
+              "https://orcid.org/0000-0003-3422-518X"
+            ]
+          },
+          {
+            "@type": "Person",
+            "@id": "https://orcid.org/0000-0002-4894-652X",
+            "name": "Miguel Ángel Yunta Ibarrondo",
+            "jobTitle": "Profesor",
+            "affiliation": { "@type": "CollegeOrUniversity", "name": "Universidad Internacional de Valencia" },
+            "sameAs": [
+              "https://orcid.org/0000-0002-4894-652X"
+            ]
+          },
+          {
+            "@type": "Person",
+            "@id": "https://orcid.org/0000-0002-5910-2349",
+            "name": "Antonio Delgado Baena",
+            "jobTitle": "Profesor",
+            "affiliation": { "@id": "https://www.upo.es/#university" },
+            "sameAs": [
+              "https://orcid.org/0000-0002-5910-2349",
+              "https://investiga.upo.es/investigadores/2177520/detalle"
+            ]
+          }
+        ]
+      },
+      {
+        "@type": "WebSite",
+        "@id": "https://josealbertogallardo.github.io/INNOVASOC/#website",
+        "url": "https://josealbertogallardo.github.io/INNOVASOC/",
+        "name": "INNOVASOC · Grupo de Investigación en Innovación Socioeducativa",
+        "inLanguage": "es",
+        "publisher": { "@id": "https://josealbertogallardo.github.io/INNOVASOC/#organization" }
+      },
+      {
+        "@type": "WebPage",
+        "@id": "https://josealbertogallardo.github.io/INNOVASOC/#webpage",
+        "url": "https://josealbertogallardo.github.io/INNOVASOC/",
+        "name": "INNOVASOC · Grupo de Investigación en Innovación Socioeducativa (PAIDI SEJ696) · Universidad Pablo de Olavide",
+        "description": "INNOVASOC (PAIDI SEJ696) es el grupo de investigación en innovación socioeducativa de la Universidad Pablo de Olavide (Sevilla): educación social, pedagogía social, inclusión educativa, educación emocional y para la salud, ocio e intervención socioeducativa.",
+        "inLanguage": "es",
+        "isPartOf": { "@id": "https://josealbertogallardo.github.io/INNOVASOC/#website" },
+        "about": { "@id": "https://josealbertogallardo.github.io/INNOVASOC/#organization" },
+        "primaryImageOfPage": {
+          "@type": "ImageObject",
+          "url": "https://josealbertogallardo.github.io/INNOVASOC/assets/img/og-image.png",
+          "width": 1200,
+          "height": 630
+        },
+        "dateModified": "2026-11-17"
+      }
+    ]
+  }
+  </script>
 </head>
 <body>
   <header class="site-header">
     <div class="container header-inner">
       <a href="#inicio" class="brand">
-        <img src="assets/img/logo-horizontal.png" alt="INNOVASOC - Grupo de Investigación en Innovación Socioeducativa">
+        <img src="assets/img/logo-horizontal.png" alt="INNOVASOC - Grupo de Investigación en Innovación Socioeducativa" width="2138" height="426">
       </a>
       <button class="nav-toggle" aria-expanded="false" aria-controls="nav" aria-label="Abrir menú">☰</button>
       <nav id="nav" class="site-nav">
@@ -218,12 +449,12 @@
           <article class="card"><h3>Redes y asociaciones científicas y profesionales</h3><ul><li>Sociedad Iberoamericana de Pedagogía Social (SIPS)</li><li>Red Educativa DIM-EDU (Didáctica, Innovación y Multimedia)</li><li>Asociación de Psicología Educativa y Evolutiva de la Infancia, Adolescencia, Mayores y Discapacidad (INFAD)</li></ul></article>
           <article class="card"><h3>Instituciones y entidades colaboradoras</h3><ul><li>Asociación Andalucía-América de Cooperación y Amistad (AAACOA)</li></ul></article>
         </div>
-        <div class="logos" aria-label="Entidades colaboradoras">
-          <img src="assets/img/colaboradores/upo.png" alt="Universidad Pablo de Olavide">
-          <img src="assets/img/colaboradores/uca.png" alt="Universidad de Cádiz">
-          <img src="assets/img/colaboradores/us.png" alt="Universidad de Sevilla">
-          <img src="assets/img/colaboradores/sips.png" alt="Sociedad Iberoamericana de Pedagogía Social (SIPS)">
-          <img src="assets/img/colaboradores/aaacoa.png" alt="Asociación Andalucía-América de Cooperación y Amistad (AAACOA)">
+        <div class="logos" role="group" aria-label="Entidades colaboradoras">
+          <img src="assets/img/colaboradores/upo.png" alt="Universidad Pablo de Olavide" width="480" height="181" loading="lazy" decoding="async">
+          <img src="assets/img/colaboradores/uca.png" alt="Universidad de Cádiz" width="181" height="240" loading="lazy" decoding="async">
+          <img src="assets/img/colaboradores/us.png" alt="Universidad de Sevilla" width="240" height="240" loading="lazy" decoding="async">
+          <img src="assets/img/colaboradores/sips.png" alt="Sociedad Iberoamericana de Pedagogía Social (SIPS)" width="328" height="204" loading="lazy" decoding="async">
+          <img src="assets/img/colaboradores/aaacoa.png" alt="Asociación Andalucía-América de Cooperación y Amistad (AAACOA)" width="225" height="225" loading="lazy" decoding="async">
         </div>
       </div>
     </section>
@@ -284,6 +515,9 @@
             <div class="pub-list" data-pubs="capitulos"></div>
           </div>
         </div>
+        <noscript>
+          <p>El listado de publicaciones se muestra con JavaScript. Puedes consultarlo completo en texto plano en <a href="llms-full.txt">llms-full.txt</a> (apartado «Publicaciones») o en los perfiles ORCID e institucionales de cada miembro (sección <a href="#equipo">Equipo</a>).</p>
+        </noscript>
       </div>
     </section>
 
@@ -330,7 +564,7 @@
 
   <footer class="site-footer">
     <div class="container footer-inner">
-      <img src="assets/img/logo-negativo.png" alt="INNOVASOC" class="footer-logo">
+      <img src="assets/img/logo-negativo.png" alt="INNOVASOC" class="footer-logo" width="1279" height="1279" loading="lazy" decoding="async">
       <div>
         <p><strong>Grupo de Investigación INNOVASOC (PAIDI SEJ696)</strong><br>Departamento de Educación y Psicología Social<br>Universidad Pablo de Olavide, Sevilla</p>
         <p class="small">&copy; <span id="year"></span> INNOVASOC</p>

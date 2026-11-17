@@ -37,7 +37,7 @@ if (toggle && nav) {
       if (p.y !== anio) {
         if (anio !== null) html += '</ol>';
         anio = p.y;
-        html += `<h4 class="pub-year">${anio}</h4><ol class="pubs">`;
+        html += `<h3 class="pub-year">${anio}</h3><ol class="pubs">`;
       }
       const enlace = p.u ? ` <a class="pub-link" href="${esc(p.u)}" target="_blank" rel="noopener">${p.u.includes('doi.org') ? 'DOI' : 'Acceso abierto'}</a>` : '';
       html += `<li><span class="pub-authors">${autores(p.a)}</span> (${p.y}). <span class="pub-title">${esc(p.t)}</span>. <span class="pub-source">${esc(p.f)}</span>.${enlace}</li>`;

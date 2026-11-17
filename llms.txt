@@ -1,0 +1,52 @@
+# INNOVASOC · Grupo de Investigación en Innovación Socioeducativa (PAIDI SEJ696)
+
+> INNOVASOC es un grupo de investigación de la Universidad Pablo de Olavide (Sevilla, España), adscrito al Departamento de Educación y Psicología Social y reconocido en el Plan Andaluz de Investigación, Desarrollo e Innovación (PAIDI) de la Junta de Andalucía con el código SEJ696 (área de Ciencias Sociales, Económicas y Jurídicas). Se constituyó el 3 de febrero de 2024 y su responsable es Fernando López Noguero. Investiga los procesos educativos y sociales para contribuir a transformarlos desde la innovación, la equidad y la participación: educación social, pedagogía social, inclusión educativa, educación emocional, educación para la salud, ocio e intervención socioeducativa.
+
+Datos clave:
+
+- Nombre: INNOVASOC (Grupo de Investigación en Innovación Socioeducativa)
+- Código PAIDI: SEJ696 (Junta de Andalucía)
+- Universidad: Universidad Pablo de Olavide, Sevilla (España)
+- Departamento: Educación y Psicología Social
+- Fecha de constitución: 3 de febrero de 2024
+- Responsable: Fernando López Noguero (ORCID 0000-0002-1124-8613)
+- Contacto: flopnog@upo.es · josealberto.gallardo@uca.es
+- Idioma del sitio: español
+
+Líneas de investigación (12): educación ambiental; educación para la salud; innovación educativa y nuevas tecnologías aplicadas a la educación; intervención socioeducativa; ocio y tiempo libre; inclusión educativa, interculturalidad y atención a la diversidad; desarrollo comunitario y animación sociocultural; pedagogía social y educación social; metodologías participativas; ciudadanía y participación social; educación emocional; educación para el desarrollo y la cohesión social.
+
+## Web del grupo
+
+- [Página principal](https://josealbertogallardo.github.io/INNOVASOC/): presentación, noticias, líneas, equipo, redes, proyectos, publicaciones, eventos y contacto
+- [Presentación](https://josealbertogallardo.github.io/INNOVASOC/#presentacion): datos de constitución, adscripción y código PAIDI
+- [Líneas de investigación](https://josealbertogallardo.github.io/INNOVASOC/#lineas): descripción de las 12 líneas
+- [Equipo](https://josealbertogallardo.github.io/INNOVASOC/#equipo): miembros, cargos y enlaces ORCID
+- [Redes y asociaciones](https://josealbertogallardo.github.io/INNOVASOC/#redes): grupos, universidades e instituciones colaboradoras
+- [Publicaciones](https://josealbertogallardo.github.io/INNOVASOC/#publicaciones): libros, artículos y capítulos de libro
+- [Contacto](https://josealbertogallardo.github.io/INNOVASOC/#contacto): correos electrónicos y web institucional
+
+## Información completa
+
+- [llms-full.txt](https://josealbertogallardo.github.io/INNOVASOC/llms-full.txt): versión extendida en texto plano con equipo, colaboraciones y listado completo de publicaciones
+
+## Equipo
+
+- [Fernando López Noguero](https://orcid.org/0000-0002-1124-8613): responsable del grupo; Profesor Titular de Universidad, Universidad Pablo de Olavide
+- [Jose Alberto Gallardo López](https://orcid.org/0000-0003-3243-1676): Profesor Permanente Laboral, Universidad de Cádiz
+- [Juan Agustín Morón Marchena](https://orcid.org/0000-0002-9012-9881): Profesor Titular de Universidad, Universidad Pablo de Olavide
+- [Irene García Lázaro](https://orcid.org/0000-0001-6000-8424): profesora, Universidad de Sevilla
+- [David Muñoz Villaraviz](https://orcid.org/0000-0003-3422-518X): profesor, CEIP San José Obrero (Sevilla)
+- [Miguel Ángel Yunta Ibarrondo](https://orcid.org/0000-0002-4894-652X): profesor, Universidad Internacional de Valencia
+- [Antonio Delgado Baena](https://orcid.org/0000-0002-5910-2349): profesor, Universidad Pablo de Olavide
+
+## Fuentes institucionales
+
+- [Ficha del grupo en el portal de investigación de la UPO](https://investiga.upo.es/grupos/197641/detalle): registro institucional del grupo INNOVASOC
+- [Universidad Pablo de Olavide](https://www.upo.es/): universidad de adscripción
+
+## Optional
+
+- [Portal de Producción Científica de la Universidad de Cádiz (J. A. Gallardo López)](https://produccioncientifica.uca.es/investigadores/275549/publicaciones): una de las fuentes del listado de publicaciones
+- [Portal de investigación de la UPO (F. López Noguero)](https://investiga.upo.es/investigadores/158743/detalle): una de las fuentes del listado de publicaciones
+- [Portal de investigación de la UPO (J. A. Morón Marchena)](https://investiga.upo.es/investigadores/160548/detalle): una de las fuentes del listado de publicaciones
+- [Prisma, Universidad de Sevilla (I. García Lázaro)](https://prisma.us.es/investigador/7021): una de las fuentes del listado de publicaciones

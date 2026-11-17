@@ -1,0 +1,350 @@
+# INNOVASOC · Grupo de Investigación en Innovación Socioeducativa (PAIDI SEJ696)
+
+> INNOVASOC es un grupo de investigación de la Universidad Pablo de Olavide (Sevilla, España), adscrito al Departamento de Educación y Psicología Social y reconocido en el Plan Andaluz de Investigación, Desarrollo e Innovación (PAIDI) de la Junta de Andalucía con el código SEJ696. Se constituyó el 3 de febrero de 2024 y su responsable es Fernando López Noguero.
+
+Versión extendida de https://josealbertogallardo.github.io/INNOVASOC/llms.txt, pensada para buscadores y modelos de lenguaje. Web: https://josealbertogallardo.github.io/INNOVASOC/
+
+## Qué es INNOVASOC
+
+INNOVASOC (Grupo de Investigación en Innovación Socioeducativa) investiga los procesos educativos y sociales para contribuir a transformarlos desde la innovación, la equidad y la participación. Es un equipo interdisciplinar e interuniversitario que reúne a investigadoras e investigadores de varias universidades andaluzas y españolas y tiende puentes entre la universidad, los centros educativos y las entidades sociales.
+
+- Nombre completo: Grupo de Investigación en Innovación Socioeducativa
+- Acrónimo: INNOVASOC
+- Código PAIDI: SEJ696 (Plan Andaluz de Investigación, Desarrollo e Innovación, Junta de Andalucía)
+- Área PAIDI: Ciencias Sociales, Económicas y Jurídicas (SEJ)
+- Universidad: Universidad Pablo de Olavide, Sevilla (España)
+- Departamento: Educación y Psicología Social
+- Fecha de constitución: 3 de febrero de 2024
+- Responsable: Fernando López Noguero
+- Ficha institucional: https://investiga.upo.es/grupos/197641/detalle
+
+## Líneas de investigación
+
+1. **Educación ambiental.** Propuestas educativas que promueven la conciencia ecológica, la sostenibilidad y una relación responsable con el entorno; formación de una ciudadanía comprometida con los retos ambientales y los Objetivos de Desarrollo Sostenible.
+2. **Educación para la salud.** Estrategias de promoción de la salud y de prevención desde una perspectiva educativa: estilos de vida saludables, autocuidado y bienestar integral a lo largo de la vida.
+3. **Innovación educativa y nuevas tecnologías aplicadas a la educación.** Experiencias de innovación docente y uso pedagógico de las tecnologías digitales: entornos virtuales de aprendizaje, competencia digital y nuevas formas de enseñar y aprender en contextos formales y no formales.
+4. **Intervención socioeducativa.** Diseño, aplicación y evaluación de programas de intervención con personas, grupos y comunidades en situación de vulnerabilidad, para favorecer su desarrollo personal y social, su autonomía y su participación.
+5. **Ocio y tiempo libre.** El ocio como derecho y como espacio educativo: contribución al desarrollo personal, la socialización, el bienestar y la calidad de vida de la infancia, la juventud, las personas adultas y las personas mayores.
+6. **Inclusión educativa, interculturalidad y atención a la diversidad.** Educación de calidad para todas las personas, sin exclusiones: diversidad funcional y necesidades específicas de apoyo educativo; educación intercultural y gestión de la diversidad cultural, lingüística y religiosa; igualdad de género y coeducación; prevención del abandono y del fracaso escolar; atención educativa a colectivos en riesgo de exclusión social.
+7. **Desarrollo comunitario y animación sociocultural.** Procesos de dinamización social y cultural que fortalecen el tejido comunitario y la implicación activa de la ciudadanía.
+8. **Pedagogía social y educación social.** Desarrollo teórico y práctico de la pedagogía social como disciplina y de la educación social como profesión: ámbitos de intervención, formación de profesionales y mejora de las prácticas.
+9. **Metodologías participativas.** Investigación-acción participativa, aprendizaje-servicio y otras estrategias de construcción colectiva del conocimiento.
+10. **Ciudadanía y participación social.** Educación para una ciudadanía activa, crítica y democrática; procesos de participación social y papel de la educación en sociedades más justas.
+11. **Educación emocional.** Desarrollo de las competencias emocionales y su relación con el bienestar, la convivencia, el aprendizaje y la prevención de conductas de riesgo, en los ámbitos escolar, familiar y comunitario.
+12. **Educación para el desarrollo y la cohesión social.** La educación como herramienta para la transformación social, la justicia global, la solidaridad y la cooperación.
+
+## Equipo
+
+| Miembro | Cargo / afiliación | ORCID | Perfil institucional |
+|---|---|---|---|
+| Fernando López Noguero | Responsable del grupo. Profesor Titular de Universidad, Universidad Pablo de Olavide | https://orcid.org/0000-0002-1124-8613 | https://investiga.upo.es/investigadores/158743/detalle |
+| Jose Alberto Gallardo López | Profesor Permanente Laboral, Universidad de Cádiz | https://orcid.org/0000-0003-3243-1676 | https://produccioncientifica.uca.es/investigadores/275549/publicaciones |
+| Juan Agustín Morón Marchena | Profesor Titular de Universidad, Universidad Pablo de Olavide | https://orcid.org/0000-0002-9012-9881 | https://investiga.upo.es/investigadores/160548/detalle |
+| Irene García Lázaro | Profesora, Universidad de Sevilla | https://orcid.org/0000-0001-6000-8424 | https://prisma.us.es/investigador/7021 |
+| David Muñoz Villaraviz | Profesor, CEIP San José Obrero (Sevilla) | https://orcid.org/0000-0003-3422-518X | — |
+| Miguel Ángel Yunta Ibarrondo | Profesor, Universidad Internacional de Valencia | https://orcid.org/0000-0002-4894-652X | — |
+| Antonio Delgado Baena | Profesor, Universidad Pablo de Olavide | https://orcid.org/0000-0002-5910-2349 | https://investiga.upo.es/investigadores/2177520/detalle |
+
+## Redes y colaboraciones
+
+- Grupos de investigación e innovación: Grupo de Investigación (GI17) de Intervención Socioeducativa de la UNED (Contextos-ISE).
+- Universidades y centros de investigación: Universidad de Cádiz; Universidad de Sevilla; Universidad Internacional de Valencia.
+- Redes y asociaciones científicas y profesionales: Sociedad Iberoamericana de Pedagogía Social (SIPS); Red Educativa DIM-EDU (Didáctica, Innovación y Multimedia); Asociación de Psicología Educativa y Evolutiva de la Infancia, Adolescencia, Mayores y Discapacidad (INFAD).
+- Instituciones y entidades colaboradoras: Asociación Andalucía-América de Cooperación y Amistad (AAACOA).
+
+El grupo mantiene además vínculos con centros educativos, administraciones públicas y entidades del tercer sector.
+
+## Contacto
+
+- Correo electrónico: flopnog@upo.es · josealberto.gallardo@uca.es
+- Redes sociales: @GI_INNOVASOC
+- Web institucional: https://investiga.upo.es/grupos/197641/detalle
+- Dirección: Departamento de Educación y Psicología Social, Universidad Pablo de Olavide, Sevilla (España)
+
+## Publicaciones
+
+Volcado del archivo assets/js/publicaciones.js de la web, generado el 2026-11-17. Puede no reflejar altas posteriores; la versión vigente es la que muestra la sección Publicaciones de https://josealbertogallardo.github.io/INNOVASOC/#publicaciones. Ordenadas de la más reciente a la más antigua.
+
+### Libros (53)
+
+- López-Noguero, F.; Morón-Marchena, J. A.; Gallardo-López, J. A. (coords.) (2025). Líderes comunitarios y dinámica de grupos sociales: participación ciudadana para la mejora de calidad de vida. Narcea.
+- Morón Marchena, J. A.; Muñoz Díaz, M. D. C.; Perea Rodríguez, M. J. (2025). Innovación universitaria y salud: estudios e investigaciones para la transformación sociocomunitaria: aportaciones desde Nicaragua. Dykinson.
+- Gallardo-Vázquez, P.; Gallardo Basile, F. J.; Gallardo-López, J. A. (2025). Discapacidad intelectual: inclusión educativa y calidad de vida. Octaedro.
+- Machín Álvarez, M.; Gallardo-López, J. A.; Escorza Piña, S.; Páez Cruz, I.; del Pino-Brunet, N. (2025). Guía de observación: Una herramienta para el prácticum de Educación Infantil y Primaria. Octaedro.
+- de Juanas Oliva, Á.; García Castilla, F. J.; Hossein Mohand, H. et al. (2024). ¡Su tiempo, su vida!: Guía práctica de orientaciones para profesionales de la intervención socioeducativa comprometidos con la gestión del tiempo de las personas jóvenes. Ciudad Autónoma de Melilla. https://hdl.handle.net/20.500.14468/22760
+- de Juanas Oliva, Á.; García Castilla, F. J.; Hossein Mohand, H. et al. (2024). ¡Tu tiempo, tu vida!: Guía práctica de orientaciones para jóvenes en la gestión del tiempo y las actividades de ocio. Melilla, ciudad social. Ciudad Autónoma de Melilla. https://hdl.handle.net/20.500.14468/22755
+- de Juanas Oliva, Á.; García Castilla, F. J.; Hossein Mohand, H. et al. (2024). ¡Su tiempo, su vida!: guía práctica de orientaciones para familias comprometidas en la gestión del tiempo de las personas jóvenes. Melilla, ciudad social. UNED. https://hdl.handle.net/20.500.14468/22756
+- Crespo Ramos, S.; Morón-Marchena, J. A.; Cobos-Sanchiz, D.; López-Meneses, E. (2022). Innovación educativa y redes sociales: en la formación universitaria. Narcea.
+- Torres-Barzabal, L.; Morón-Marchena, J. A. (2022). Educación y sociedad: Aportaciones de la investigación universitaria a la transformación social. Síntesis.
+- Morón Marchena, J. A.; Torres Barzabal, L. (2021). Investigación e innovación en educación social: Estudios e investigaciones en tiempos de COVID-19. Octaedro.
+- Gallardo Vázquez, P.; Gallardo Basile, F. J.; Gallardo López, J. A. (2021). Fundamentos teóricos de la educación emocional: Claves para la transformación educativa. Octaedro.
+- Gallardo Vázquez, P.; Gallardo Basile, F. J.; Gallardo López, J. A. (2021). Desarrollo de las habilidades socioemocionales y de los valores en Educación Infantil y Primaria. Octaedro.
+- López Noguero, F.; Morón Marchena, J. A.; Gallardo López, J. A. (2020). Educación para la salud y desarrollo comunitario: investigaciones para la mejora social en Nicaragua. Octaedro.
+- Pérez-Pérez, I.; Morón Marchena, J. A. (2020). Juventud y VIH-sida: estudio sobre conocimientos y prácticas de riesgo en Nicaragua. Narcea.
+- Torres-Barzabal, L.; Morón Marchena, J. A. (2020). Innovación docente: experiencias universitarias en educación social. Octaedro.
+- Morón Marchena, J. A.; Pérez-Pérez, I.; Pedrero García, E. (2017). Educación para la salud y prevención de riesgos psicosociales: en adolescentes y jóvenes. Narcea.
+- Morón Marchena, J. A. (2015). Investigar e intervenir en educación para la salud. Narcea.
+- Gallardo Vázquez, P.; Gallardo López, J. A. (2015). La atención educativa a las personas con discapacidad intelectual. Universidad de Sevilla.
+- Gallardo Vázquez, P.; Gallardo López, J. A. (2015). La Inteligencia y Educación Emocional en el aula. Universidad de Sevilla.
+- Morón Marchena, J. A.; López-Noguero, F.; Cobos Sanchiz, D. (2011). La problemática del SIDA: una aproximación socioeducativa. Universidad Pablo de Olavide.
+- Gallardo Vázquez, P.; Gallardo López, J. A. (2011). Pedagogía social. Wanceulen.
+- Terrón Caro, M. T.; Morón Marchena, J. A. (2010). Diversidad cultural y atención socioeducativa: una visión desde diferentes prismas. Fundación SM.
+- Gallardo Vázquez, P.; Gallardo López, J. A. (2010). La inteligencia emocional y la educación emocional en el contexto educativo. Wanceulen.
+- Castillo Manzano, A. J.; Morón Marchena, J. A.; Pedrero-García, E. (2009). Estudio sobre prevalencias, actitudes, patrones y motivaciones de la población universitaria en relación al consumo de drogas. Edición Digital A3D.
+- Morón Marchena, J. A. (2009). Pedagogía social y educación para la salud: cómo abordar la educación para la salud desde una perspectiva socioeducativa en la universidad. Edición Digital @tres.
+- Gallardo Vázquez, P.; Gallardo López, J. A. (2009). Inteligencia emocional y programas de educación emocional: desarrollo emocional, social y moral en la Educación Primaria. Wanceulen.
+- López Noguero, F. (2009). Métodos de investigación y planificación en intervención socioeducativa. Universidad Pablo de Olavide.
+- López Noguero, F. (2008). Educación como respuesta a la diversidad: una perspectiva comparada. Universidad Pablo de Olavide.
+- López-Noguero, F. (2005). Metodología participativa en la enseñanza universitaria. Narcea.
+- López Noguero, F. (2004). Educación Social Prácticum. Universidad de Huelva.
+- Boza Carreño, Á.; Correa García, R. I.; Fernández Serrat, M. L.; Guzmán Franco, M. D.; López-Noguero, F.; Moreno Sánchez, E.; Mora Gómez, F. J.; Moreno Fernández, M. J. (2003). Informe final de evaluación institucional. Departamento de Educación. Universidad de Huelva.
+- Pérez Serrano, M. G.; Cárdenas-Rodríguez, R.; López-Noguero, F.; Mateos Claros, F.; Pérez de Guzmán, V. (2003). Valores y actitudes democráticos de los jóvenes andaluces: percepciones sobre las instituciones sociales. Instituto Andaluz de la Juventud.
+- Reyes Santana, M.; Tirado Morueta, R.; Cruz-Díaz, R.; González Faraco, J. C.; López-Noguero, F. (2003). Educación y ciudadanía en la sociedad del conocimiento: IV Congreso Andaluz Educación Social. Universidad de Huelva.
+- López-Noguero, F.; Gata Amaya, M.; León Solís, L.; Toscano Cruz, M. D. L. O. (2002). Las asociaciones: ciudadanía y participación juvenil. Ayuntamiento de Almería.
+- López-Noguero, F.; Reyes Santana, M. (2002). Dinámica de grupos en contextos formativos. XYZ.
+- López-Noguero, F.; Pozo Llorente, M. T. (2002). Investigar en educación social. Departamento de Teoría e Historia de la Educación y Pedagogía Social.
+- López-Noguero, F.; Pozo Llorente, M. T. (2002). Métodos de investigación en educación social y animación sociocultural: nuevas perspectivas. Universidad de Sevilla.
+- López-Noguero, F.; Cruz-Díaz, R.; Beltrán Ruiz, R. (2001). Formación permanente: tendencias actuales. Educa.
+- López-Noguero, F. (2001). La formación del animador sociocultural. Universidad de Huelva.
+- Morón Marchena, J. A. (2000). Aportaciones y experiencias en educación para la salud. Ayuntamiento de Dos Hermanas.
+- Morón Marchena, J. A. (2000). Educación para la salud: de la teoría a la práctica. Ayuntamiento de Dos Hermanas.
+- Morón Marchena, J. A. (1999). Educación para la salud y municipio. Ayuntamiento de Dos Hermanas.
+- Morón Marchena, J. A. (1999). Las cualidades de los docentes según los alumnos. Diputación de Sevilla.
+- Morón Marchena, J. A. (1998). Educación para la salud: fundamentos y metodología. Ayuntamiento de Dos Hermanas.
+- Feria Moreno, A.; Morón Marchena, J. A. (1998). Educación y publicidad. Grupo Comunicar.
+- Morón Marchena, J. A. (1998). Nuevas demandas de la sociedad actual: educación para la salud y educación para el consumo. Kronos.
+- Morón Marchena, J. A. (1997). Salud, educación y sociedad. Diputación Provincial de Sevilla.
+- Morón Marchena, J. A. (1995). Educación para la salud: un reto para todos. Ayuntamiento de Dos Hermanas.
+- Morón Marchena, J. A. (1995). La educación para la salud en el ámbito comunitario: I Congreso de Educación para la Salud. Dos Hermanas (Sevilla). 1995. Diputación Provincial de Sevilla.
+- Morón Marchena, J. A.; Aguaded Gómez, J. I. (1994). Enseñar y aprender la actualidad con los medios de comunicación: Congreso Nacional de Prensa y Educación, Isla Cartuja, Sevilla 1994. GIPDA.
+- de la Rosa Acosta, B.; Pérez González, E.; Bernal-Guerrero, A.; González Faraco, J. C.; Morón Marchena, J. A.; Aguaded Gómez, J. I.; Feria Moreno, A. (1993). La función docente: aspectos socio-pedagógicos. GIPDA.
+- Morón Marchena, J. A.; Vázquez Foncuberta, A.; Vázquez Foncuberta, J. (1993). Prevención de accidentes en la infancia desde el marco educativo. Ayuntamiento de Dos Hermanas, Delegación de Salud.
+- Morón Marchena, J. A. (1988). Educación para la salud: experiencias e investigaciones en el campo comunitario, social y escolar. Ayuntamiento de Dos Hermanas.
+
+### Artículos en revistas científicas (108)
+
+- López Noguero, F.; Romero Díaz, T.; Gallardo López, J. A. (2026). Percepciones y uso académico del smartphone en estudiantes universitarios de España y Nicaragua: Un estudio comparativo. Pixel-Bit: Revista de Medios y Educación, 76. https://doi.org/10.12795/PIXELBIT.116509
+- Cotán Fernández, A.; Gallardo-López, J. A. (2026). Percepciones del estudiantado con discapacidad sobre la tecnología educativa: desafíos y oportunidades para una universidad inclusiva. Siglo Cero: Revista Española sobre Discapacidad Intelectual, 57(3), 175-197. https://doi.org/10.14201/SCERO.32894
+- Gil-Galván, R.; García-Lázaro, I.; Martín-Espinosa, I.; Gil-Galván, F. J. (2026). Análisis del desarrollo de competencias vinculadas al emprendimiento en estudiantes universitarios según la rama del conocimiento. Revista Complutense de Educación, 37(4), 821-833. https://doi.org/10.5209/rced.103879
+- García-Lázaro, I.; Villaciervos-Moreno, P.; Alba-Pastor, C.; González-Ramírez, T. (2026). Universal Design for Learning under the spotlight: An analysis from a curricular and legislative perspective. Curriculum Perspectives. https://doi.org/10.1007/s41297-026-00339-9
+- Gallardo López, J. A.; Álvarez Díaz, K.; Goenechea Permisán, C.; Cotán Fernández, A. (2026). El profesorado inclusivo y el uso de recursos tecnológicos para el aprendizaje en entornos universitarios online: un estudio desde la perspectiva del estudiantado con discapacidad. Revista Complutense de Educación, 37(4), 655-677. https://doi.org/10.5209/RCED.103216
+- Goenechea, C.; Machín, M.; Gallardo, A.; de-Besa, M. (2026). Developing an understanding of the over-representation of foreign students in special education in Spain. A qualitative approach. British Journal of Special Education, 53(1), 60-71. https://doi.org/10.1111/1467-8578.70069
+- López-Noguero, F.; García-Lázaro, I.; Gallardo-López, J. A. (2026). Implementación de metodologías activas en la universidad a través de la red social X. Foro de Educación, 24(1), 101-123.
+- Gallardo-López, J. A.; Sevillano-Monje, V.; López-Noguero, F. (2026). El uso educativo y social del smartphone de los jóvenes universitarios. Campus Virtuales, 15(1), 9-21. https://doi.org/10.54988/CV.2026.1.1624
+- García-Lázaro, I.; Reyes-de-Cózar, S. (2025). Preservice teachers’ reflective processes during field experiences: a systematic review from the ONION model framework. Reflective Practice, 26(1), 115-134. https://doi.org/10.1080/14623943.2024.2421597
+- Yunta Ibarrondo, M. Á.; Campo Pena, L.; García Lázaro, I. (2025). Revisión sistemática sobre prácticas inclusivas en Educación Física y educación en valores. Cuestiones pedagógicas: Revista de ciencias de la educación (0213-1269 ; 2253-8275), 34. https://doi.org/10.12795/cp.2025.i34.v2.04
+- García-Lázaro, I.; Su, F.; Wood, M. (2025). ‘Being a teacher is different from working as a teacher’: evaluating pre-service primary school teachers’ practicum experiences in a Spanish context. Professional Development in Education. https://doi.org/10.1080/19415257.2025.2475877
+- Machín Álvarez, M.; Gallardo-López, J. A. (2025). ¿Cultura ecosocial o gestión de lo ambiental? Modelos de implementación del programa Ecoescuela. Espacio, Tiempo y Educación, 12(1), 87-105.
+- Gallardo-López, J. A.; Cotán Fernández, A. (2025). Diseño y Validación de un Cuestionario sobre Prácticas Inclusivas con Recursos Tecnológicos en la Universidad. VISUAL REVIEW: International Visual Culture Review, 17(8). https://doi.org/10.62161/REVVISUAL.V17.5919
+- López-Noguero, F.; Morón-Marchena, J. A.; García-Lázaro, I.; Gallardo-López, J. A. (2024). El fomento de la participación ciudadana desde la digitalización municipal. Prisma Social: Revista de Investigación Social, 46, 4-28.
+- Cotán Fernández, A.; Márquez Díaz, J. R.; Álvarez Díaz, K.; Gallardo-López, J. A. (2024). Recursos tecnológicos y formación docente para la inclusión educativa de estudiantes con discapacidad en la universidad. European Public & Social Innovation Review (EPSIR), 9. https://doi.org/10.31637/EPSIR-2024-820
+- López-Noguero, F.; Gallardo-López, J. A.; García-Lázaro, I.; Sevillano-Monje, V. (2024). Self-Perception of Young University Students About Their Leisure Time Before, During and After COVID-19. An Approach to the Spanish Context. Italian Sociological Review, 14(1), 1-27. https://doi.org/10.13136/ISR.V14I1.713
+- Cotán Fernández, A.; Álvarez Díaz, K.; Márquez Díaz, J. R.; Gallardo-López, J. A. (2024). Recursos tecnológicos y educación inclusiva: propuestas y recomendaciones de estudiantes universitarios con discapacidad. Edutec: Revista Electrónica de Tecnología Educativa, 90, 111-127. https://doi.org/10.21556/EDUTEC.2024.90.3521
+- Cotán Fernández, A.; Gallardo-López, J. A.; López-Noguero, F. (2024). Inclusive Methodological Strategies for Students with Disabilities in Higher Education: Content Analysis through Scopus. Publicaciones: Facultad de Educación y Humanidades del Campus de Melilla, 54(2), 15-35. https://doi.org/10.30827/PUBLICACIONES.V54I2.30488
+- López-Noguero, F.; Gallardo-López, J. A.; García-Lázaro, I. (2023). Inteligencia emocional y adolescencia: Percepción, comprensión y regulación de las emociones. Pedagogía Social: Revista Interuniversitaria, 43, 165-178. https://doi.org/10.7179/PSRI_2023.43.11
+- López-Noguero, F.; Gallardo-López, J. A.; García-Lázaro, I. (2023). La Gestión de los Centros Educativos durante el COVID-19 desde una Perspectiva de Género. Géneros, 12(1), 28-54. https://doi.org/10.17583/GENEROS.10731
+- Otero Saborido, F. M.; Rodríguez-Bies, E.; Gallardo-López, J. A.; López-Noguero, F. (2023). Percepción del alumnado de Educación Física sobre la carga de trabajo y Evaluación Formativa en Flipped Learning. Retos: Nuevas Tendencias en Educación Física, Deporte y Recreación, 50, 298-305. https://doi.org/10.47197/RETOS.V50.97236
+- López-Noguero, F.; Romero-Díaz, T.; Gallardo-López, J. A. (2023). Smartphone como herramienta de enseñanza-aprendizaje en Educación Superior en Nicaragua. RIED: Revista Iberoamericana de Educación a Distancia, 26(1), 307-330. https://doi.org/10.5944/RIED.26.1.34016
+- Gallardo-López, J. A. (2023). Escuela coeducativa, retos para la igualdad de género. Cuadernos de Pedagogía, 547.
+- López-Noguero, F.; Gallardo-López, J. A.; Muñoz-Villaraviz, D. (2023). Inteligencia emocional en 5º y 6º de Educación Primaria. Percepción, comprensión y regulación de las emociones del alumnado en función del género, la edad y el contexto. Electronic Journal of Research in Educational Psychology, 21(60), 257-290. https://doi.org/10.25115/EJREP.V21I60.7868
+- Cobos Sanchiz, D.; López Noguero, F.; Gallardo López, J. A.; Martín, M. C. (2022). Incidencia del agotamiento en los docentes universitarios: estudio de caso en una universidad española. Formación Universitaria, 15(2), 83-92. https://doi.org/10.4067/S0718-50062022000200083
+- Cobos-Sanchiz, D.; Perea-Rodriguez, M. J.; Morón-Marchena, J. A.; Muñoz-Díaz, M. C. (2022). Positive Adult Education, Learned Helplessness and the Pygmalion Effect. International Journal of Environmental Research and Public Health, 19(2). https://doi.org/10.3390/ijerph19020778
+- López Noguero, F.; Gallardo López, J. A. (2022). The educational Use of the Smartphone by University Students of Social Education and Social Work. Revista Fuentes, 24(1), 39-53. https://doi.org/10.12795/REVISTAFUENTES.2022.16822
+- López-Noguero, F.; Gallardo-López, J. A.; Martínez-Sánchez, I.; Vasco-González, M. (2022). Percepción de los jóvenes vinculados y egresados del sistema de protección acerca de su relación con la familia. Bienestar psicológico, atribuciones y expectativas académicas y laborales. Pedagogía Social: Revista Interuniversitaria, 40, 113-128. https://doi.org/10.7179/PSRI_2022.40.07
+- López-Noguero, F.; Gallardo-López, J. A.; Muñoz-Villaraviz, D. (2022). Videojuegos y preadolescencia: Uso, hábitos e implicaciones socioeducativas en función del género. Revista Colombiana de Educación, 84. https://doi.org/10.17227/RCE.NUM84-12701
+- García Lázaro, I.; Conde Jiménez, J.; Colás Bravo, M. P. (2022). El desarrollo profesional a través de las prácticas externas desde la visión del profesorado en formación inicial. Fuentes: Revista de la Facultad de Ciencias de la Educación, 24(2), 149-161. https://doi.org/10.12795/revistafuentes.2022.19665
+- Perea-Rodríguez, M. J.; Morón-Marchena, J. A.; Muñoz-Díaz, M. C.; Cobos-Sanchiz, D. (2021). Adult education: A sustainable model for the reduction of psychosocial and educational risks caused by covid-19. Sustainability (Switzerland), 13(9). https://doi.org/10.3390/su13095264
+- López-Noguero, F.; García-Lázaro, I.; Gallardo-López, J. A. (2021). Consecuencias del COVID-19 en los centros educativos en función de su contexto socioeconómico y titularidad. Publicaciones: Facultad de Educación y Humanidades del Campus de Melilla, 51(3), 421-462. https://doi.org/10.30827/PUBLICACIONES.V51I3.16709
+- Cotán Fernández, A.; García-Lázaro, I.; Gallardo-López, J. A. (2021). Trabajo colaborativo en línea como estrategia de aprendizaje en entornos virtuales: una investigación con estudiantes universitarios de Educación Infantil y Educación Primaria. Educación (PUCP), 30(58), 147-168. https://doi.org/10.18800/EDUCACION.202101.007
+- López-Noguero, F.; Gallardo-López, J. A.; García-Lázaro, I. (2021). The educational community in the face of COVID-19: discursive analysis on vulnerability and education. International Journal of Environmental Research and Public Health, 18(13). https://doi.org/10.3390/ijerph18136716
+- Gallardo-López, J. A.; Muñoz Villaraviz, D. (2021). Participatory Methodology with an Intercultural and Intergenerational Approach: An Educational Experience in the City. IJERI: International Journal of Educational Research and Innovation, 16, 74-87. https://doi.org/10.46661/IJERI.3792
+- Gallardo-López, J. A.; López-Noguero, F. (2020). A school in crisis: educational challenges from a social education perspective. Hekademos: Revista Educativa Digital, 29, 12-22. https://hdl.handle.net/10433/9150
+- Páez-Gallego, J.; Gallardo-López, J. A.; López-Noguero, F.; Rodrigo-Moriche, M. P. (2020). Analysis of the Relationship Between Psychological Well-Being and Decision Making in Adolescent Students. Frontiers in Psychology, 11. https://doi.org/10.3389/fpsyg.2020.01195
+- Cobos-Sanchiz, D.; Morón-Marchena, J. A.; Castilla, K. P. (2020). El papel de la educación para la salud en la prevención del VIH/sida: una aproximación desde la educación para el desarrollo en Centroamérica. Educar, 56(2), 315-331. https://doi.org/10.5565/REV/EDUCAR.1084
+- Cecilia-Martí, M.; Rubio-González, L.; Morón-Marchena, J. A.; Cobos-Sanchiz, D. (2020). Burnout docente: un análisis bibliométrico sobre la producción científica indexada en Scopus. IJERI: International journal of Educational Research and Innovation, 14, 197-210. https://doi.org/10.46661/IJERI.4949
+- Gómez-García, M.; Soto-Varela, R.; Morón-Marchena, J. A.; del Pino-Espejo, M. J. (2020). Using mobile devices for educational purposes in compulsory secondary education to improve student's learning achievements. Sustainability (Switzerland), 12(9). https://doi.org/10.3390/su12093724
+- Gallardo-López, J. A.; López-Noguero, F. (2020). Twitter como recurso metodológico en Educación Superior: una experiencia educativa con estudiantes de Trabajo Social. Alteridad: Revista de Educación, 15(2), 174-189. https://doi.org/10.17163/ALT.V15N2.2020.03
+- Gallardo-López, J. A.; López-Noguero, F.; Gallardo-Vázquez, P. (2020). Pensamiento y convivencia entre géneros: coeducación para prevenir la violencia. Géneros, 9(3), 263-287. https://doi.org/10.17583/GENEROS.2020.5477
+- Gallardo-López, J. A.; García-Lázaro, I.; Gallardo-Vázquez, P. (2020). Coeducación en el sistema educativo español: un puente para alcanzar la equidad y la justicia social. Brazilian Journal of Development, 6(3), 13092-13106. https://doi.org/10.34117/BJDV6N3-247
+- Cotán Fernández, A.; Martínez Valderrey, V.; García Lázaro, I.; Gil-Mediavilla, M.; Gallardo-López, J. A. (2020). El trabajo colaborativo online como herramienta didáctica en Espacios de Enseñanza Superior (EEES): percepciones de los estudiantes de los Grados en Educación Infantil y Primaria. Revista d'Innovació Docent Universitària (RIDU), 12, 82-94. https://doi.org/10.1344/RIDU2020.12.9
+- Gallardo-López, J. A.; García-Lázaro, I.; Gallardo-Vázquez, P. (2019). Análisis de las principales teorías del juego en el ámbito educativo. Brazilian Journal of Development, 5(8), 12172-12186. https://doi.org/10.34117/BJDV5N8-066
+- Garcia Lazaro, I. (2019). Escape Room como propuesta de gamificación en educación. Hekademos: Revista Educativa Digital, 27, 71-79.
+- Gallardo López, J. A.; Gallardo Vázquez, P. (2019). Educar en igualdad: prevención de la violencia de género en la adolescencia. Hekademos: Revista Educativa Digital, 26, 31-39.
+- Gallardo-López, J. A.; López-Noguero, F.; Gallardo-Vázquez, P. (2019). Análisis del síndrome de burnout en docentes de educación infantil, primaria y secundaria para su prevención y tratamiento. Revista Electrónica Educare, 23(2). https://doi.org/10.15359/REE.23-2.17
+- Rodriguez Bravo, A. E.; López Noguero, F.; González Olivares, Á. L. (2018). El ocio de los jóvenes vulnerables: importancia, satisfacción y autogestión. Pedagogía social: revista interuniversitaria, 31, 81-92. https://doi.org/10.7179/PSRI_2018.31.07
+- Gallardo López, J. A.; Gallardo Vázquez, P. (2018). Teorías sobre el juego y su importancia como recurso educativo para el desarrollo integral infantil. Hekademos: Revista Educativa Digital, 24, 41-51.
+- Morón Marchena, J. A.; López Noguero, F.; Cobos Sanchiz, D. (2017). El uso de las Redes Sociales en la educación y promoción de la salud: Una experiencia de empoderamiento social en Nicaragua. Profesorado: Revista de curriculum y formación del profesorado, 21(4), 439-457. https://doi.org/10.30827/PROFESORADO.V21I4.10064
+- Cobos Sanchiz, D.; López Noguero, F.; Martínez Gimeno, A.; Morón Marchena, J. A.; Muñoz Díaz, M. D. C. (2017). Innovación universitaria con impacto social: evaluación de una experiencia de posgrado en América Latina. IJERI: International journal of Educational Research and Innovation, 7, 1-12. https://hdl.handle.net/10433/4929
+- Zamora-Díaz, W. J.; Cobos-Sanchiz, D.; López-Noguero, F. (2017). Social conditions and work health of Nicaraguan Secondary teachers. Revista de Pedagogia, 38(103), 194-210.
+- López-Noguero, F.; Sarrate Capdevila, M. L.; Lebrero Baena, M. P. (2016). El ocio de los jóvenes en situación de vulnerabilidad. Análisis discursivo. Revista española de pedagogía, 74(263), 127-145. https://doi.org/10.22550/2174-0909.3346
+- Corchuelo Fernández, C.; Cejudo Cortés, C. M. A.; González Faraco, J. C.; Morón Marchena, J. A. (2016). Al borde del precipicio: las Escuelas de Segunda Oportunidad, promotoras de inserción social y educativa. IJERI: International journal of Educational Research and Innovation, 6, 95-109.
+- García-Castilla, F. J.; De-Juanas Oliva, Á.; López-Noguero, F. (2016). La práctica de ocio deportivo de los jóvenes en situación de vulnerabilidad. Revista de psicología del deporte, 25(2), 27-32.
+- Pedrero García, E.; Morón Marchena, J. A. (2016). Experiencia universitaria con blogs en educación para la salud. IJERI: International journal of Educational Research and Innovation, 5, 150-159. https://hdl.handle.net/10433/2249
+- Zamora-Díaz, W. J.; López-Noguero, F.; Cobos-Sanchiz, D. (2016). Realidades del empleo docente en Nicaragua. REDIE: Revista Electrónica de Investigación Educativa, 18(2), 191-205.
+- Pérez-Pérez, I.; Morón Marchena, J. A. (2016). Conocimientos y prácticas de riesgo sobre VIH/SIDA en la UNAN-FAREM- Chontales (Nicaragua). Hekademos: revista educativa digital, 19, 49-61.
+- Pérez-Pérez, I.; Morón-Marchena, J. A.; Cobos-Sanchiz, D. (2015). Comportamientos y prejuicios de los jóvenes con relación al VIH/Sida: un estudio cualitativo con jóvenes universitarios nicaragüenses. Población y Salud en Mesoamérica, 13(1). https://doi.org/10.15517/PSM.V13I1.19292
+- González Faraco, J. C.; Iglesias Villarán, I.; Pérez Moreno, H. M.; Morón Marchena, J. A. (2014). Una infancia al límite: la protección social y educativa de menores con SIDA. Revista española de educación comparada, 23, 95-115. https://doi.org/10.5944/REEC.23.2014.12299
+- Morón Marchena, J. A. (2014). Educación y personas mayores. Revista electrónica interuniversitaria de formación del profesorado: REIFOP, 17(1), 107-121. https://doi.org/10.6018/REIFOP.17.1.198871
+- Moreno Crespo, P.; López-Noguero, F.; Cruz-Díaz, R. (2014). Portafolio digital: un nuevo formato de aprendizaje. Didáctica de las ciencias experimentales y sociales, 28, 83-94. https://doi.org/10.7203/DCES.28.3182
+- Cobos Sanchiz, D.; López-Noguero, F.; Reyes Costales, E. M. (2014). Actitudes, conocimientos y prácticas de riesgo ante el virus de la inmunodeficiencia humana entre la población universitaria de Chontales (Nicaragua). Pedagogía social: revista interuniversitaria, 23, 173-197.
+- Cobos Sanchiz, D.; Morón Marchena, J. A.; López Jarquín, E. J.; Reyes Costales, E. M. (2013). A propósito del SIDA: un estudio cualitativo sobre percepción y actitudes de estudiantes y profesorado universitario en Chontales, Nicaragua. Población y Salud en Mesoamérica, 10(2). https://doi.org/10.15517/PSM.V10I2.8517
+- Lavandera Ponce, S.; López-Noguero, F. (2013). Escuelas promotoras de salud y cambio social: una experiencia en Perú. Aula de innovación educativa, 221, 64-67.
+- Lavandera Ponce, S.; López-Noguero, F. (2013). Escoles promotores de salut i canvi social: una experiència al Perú. Guix: Elements d'acció educativa, 394, 64-67.
+- Morón Marchena, J. A.; Pérez-Pérez, I. (2013). Educación para la Salud y VIH/SIDA: una respuesta desde la participación comunitaria. Global Education Magazine, 3.
+- Martín Bermúdez, N.; López-Noguero, F. (2013). Ecoescuelas: creando lazos entre la comunidad local y la comunidad educativa. Aula de innovación educativa, 220, 61-64.
+- Martín Bermúdez, N.; López-Noguero, F. (2013). "Ecoescoles": creant llaços entre la comunitat local i la comunitat educativa. Guix: Elements d'acció educativa, 393, 61-65.
+- Morón Marchena, J. A.; López-Noguero, F.; Cobos Sanchiz, D.; López Jarquín, E. J. (2012). Educación y promoción de la salud: una experiencia de cooperación en Nicaragua. Aula de innovación educativa, 213, 69-73.
+- Morón Marchena, J. A.; Pedrero-García, E. (2012). Orientando el proceso de enseñanza-aprendizaje en la asignatura de educación para la salud: la guía docente en el espacio europeo de educación superior. UPO INNOVA: revista de innovación docente, 1, 375-390. https://hdl.handle.net/10433/2801
+- Gallardo-Vázquez, P.; Gallardo-López, J. A.; Nowakowski, M. (2012). Accreditation of professional skills: Spanish experiences. Polish Journal of Continuing Education (Edukacja Ustawiczna Dorosłych), 4(79), 16-25.
+- Morón Marchena, J. A.; Pedrero-García, E.; Cobos Sanchiz, D. (2011). Mediadores juveniles. Aula de innovación educativa, 198, 71-75.
+- Pérez-Pérez, I.; López-Noguero, F. (2011). Conecta 2007: Un estudio para la inserción sociolaboral de la mujer en Sanlúcar la Mayor. Revista Científica de Educativa Aletheia Mayor, 32-49.
+- López-Noguero, F. (2008). Hacia un espacio europeo de aprendizaje para toda la vida: evolución y desarrollo de la Educación Permanente en la Unión Europea. Pedagogía social: revista interuniversitaria, 15, 123-136. https://doi.org/10.7179/PSRI_2008.15.10
+- López-Noguero, F.; Cárdenas-Rodríguez, R. (2007). El trabajo interdisciplinar del educador social en la escuela. Aula de innovación educativa, 160, 15-17.
+- Cárdenas-Rodríguez, R.; López-Noguero, F. (2005). Hacia la construcción de un modelo social de la Pedagogía Hospitalaria. Pedagogía social: revista interuniversitaria, 12, 59-70.
+- López-Noguero, F. (2005). Inadaptación social y educación social especializada "con" jóvenes: nuevas perspectivas. XXI. Revista de educación, 7, 61-72.
+- Pérez Serrano, G.; López Noguero, F. (2005). La profesión de educador social: Retos e interrogantes. Quaderns d'animació i educació social, 1.
+- López-Noguero, F. (2005). La Educación Social Especializada con personas en situación de conflicto social. Revista de educación, 336, 57-71.
+- López-Noguero, F. (2004). La Educación Popular en España, retos e interrogantes. Agora digital, 7.
+- León Solís, L.; López-Noguero, F. (2003). Modelos pedagógico-sociales de desarrollo local: nuevas alternativas para las poblaciones rurales. UTE Teaching & Technology: Universitas Tarraconensis, 2, 71-84.
+- López-Noguero, F. (2002). El perfil del animador profesional y voluntario: Análisis de contenido. Pedagogía social: revista interuniversitaria, 9, 161-172.
+- López-Noguero, F.; León Solís, L. (2002). El educador social como educador no formal y gestor de grupos sociales. Agora digital, 4.
+- Morón Marchena, J. A. (2002). El tabaco como reto educativo. Una revisión desde una perspectiva sociológica. Educación XX1: Revista de la Facultad de Educación, 4, 125-164.
+- López-Noguero, F.; León Solís, L. (2002). La animación sociocultural como contribución a la construcción de la identidad comunitaria. Cuestiones pedagógicas: Revista de ciencias de la educación, 16, 139-150.
+- López-Noguero, F. (2002). El Análisis de contenido como método de investigación. XXI. Revista de educación, 4, 167-180.
+- López-Noguero, F. (2001). Los medios de comunicación en la educación social: el uso de la radio. Comunicar: Revista Científica de Comunicación y Educación, 16, 141-148. https://doi.org/10.3916/C16-2001-20
+- López-Noguero, F. (2000). La dimensión educativa de la animación sociocultural: una mejora de la calidad de vida de la sociedad. Cuestiones pedagógicas: Revista de ciencias de la educación, 15, 163-176.
+- Morón Marchena, J. A. (1998). Educación, Medios de Comunicación y Sociedad de Información. Cuestiones pedagógicas: Revista de ciencias de la educación, 14, 135-150.
+- Ameijeiras Marra, S.; Morón Marchena, J. A. (1998). Educación para la Salud a través del cine. Comunicar: Revista Científica de Comunicación y Educación, 11, 123-128. https://doi.org/10.3916/C11-1998-20
+- Morón Marchena, J. A. (1997). Educación en valores, transversalidad y medios de comunicación social. Comunicar: Revista Científica de Comunicación y Educación, 9, 43-49. https://doi.org/10.3916/C09-1997-07
+- Morón Marchena, J. A. (1997). Educación para la salud: Innovación y cambio ante los nuevos retos sociales. Cuestiones pedagógicas: Revista de ciencias de la educación, 13, 85-100.
+- Morón Marchena, J. A. (1997). Educación para el consumo: transversal necesaria en una sociedad consumista. Comunidad educativa, 245, 0.
+- Morón Marchena, J. A. (1996). La situación en el contexto internacional. Comunidad educativa, 234, 27-29.
+- Morón Marchena, J. A. (1996). Niños y padres europeos ante el consumo de televisión. Comunicar: Revista Científica de Comunicación y Educación, 7, 73-76. https://doi.org/10.3916/C07-1996-14
+- Morón Marchena, J. A. (1996). ¿Educadores versus televisión?. Comunidad educativa, 236, 12-14.
+- de la Rosa Acosta, B.; Morón Marchena, J. A. (1996). Estado de bienestar y educación para la salud. Cuestiones pedagógicas: Revista de ciencias de la educación, 12, 107-122.
+- Morón Marchena, J. A. (1996). Realidad y perspectivas de la educación de personas adultas en el ámbito de las universidades populares. Pedagogía social: revista interuniversitaria, 13, 129-138.
+- Morón Marchena, J. A. (1995). Alumnos de COU ¿Qué harán el próximo curso?. Comunidad educativa, 222, 11-15.
+- Morón Marchena, J. A. (1994). Los docentes hoy. Comunidad educativa, 219, 6-8.
+- Morón Marchena, J. A. (1994). Cómo iniciar un Suplemento de Educación en un diario. Comunicar: Revista Científica de Comunicación y Educación, 2, 85-89. https://doi.org/10.3916/C02-1994-12
+- Morón Marchena, J. A. (1993). La prensa en Educación Infantil. Comunicar: Revista Científica de Comunicación y Educación, 1, 10-16. https://doi.org/10.3916/C01-1993-02
+- de la Rosa Acosta, B.; Morón Marchena, J. A. (1993). Prensa y Universidad. Comunicar: Revista Científica de Comunicación y Educación, 1, 103-109. https://doi.org/10.3916/C01-1993-15
+- Morón Marchena, J. A. (1991). Háblame tú... Que yo ya leeré. Infancia: educar de 0 a 6 años, 9, 2-3.
+- Morón Marchena, J. A. (1991). Somos distintos... y somos iguales. Cuadernos de pedagogía, 197, 60-61.
+- Morón Marchena, J. A. (1990). La integración en la primera infancia: una exigencia social. Infancia: educar de 0 a 6 años, 4, 2-3.
+
+### Capítulos de libro (114)
+
+- Gallardo López, J. A.; Muñoz Villaraviz, D.; Yunta Ibarrondo, M. Á.; López Noguero, F. (2026). Voces estudiantiles en torno al acoso y ciberacoso escolar: Un análisis discursivo. En Acción socioeducativa en la juventud: ocio, bienestar y apoyos sociales (pp. 129-142). Dykinson.
+- Romero-Gómez, M. Á.; Morón-Marchena, J. A. (2025). Índice de la felicidad en Nicaragua: avances y desafíos de la Agenda 2030. En Innovación universitaria y salud: estudios e investigaciones para la transformación sociocomunitaria: aportaciones desde Nicaragua (pp. 89-97). Dykinson.
+- De Riba Mayoral, S.; Onsès Segarra, J.; García Lázaro, I. (2025). Aprender entre fronteras. La lectura y los movimientos transnacionales como modo de aprender. En Trayectorias de vida de aprendizaje de jóvenes universitarios: el valor del relato y la escucha atenta (pp. 122-128).
+- Romero-Gómez, M. Á.; Cobos-Sanchíz, D.; Morón-Marchena, J. A. (2025). Agenda 2030: asignatura pendiente en la formación inicial del profesorado en Andalucía. En Nuevos horizontes sobre los Derechos Humanos y la justicia social en las sociedades del siglo XXI (pp. 82-99). Dykinson.
+- López-Noguero, F.; Torres Fernández, C. (2025). Animación sociocultural: delimitación conceptual y tendencias actuales en las sociedades digitales. En Educación social: teorías y ámbitos para la investigación y la intervención socioeducativa (pp. 43-56). Octaedro. https://hdl.handle.net/10433/24692
+- Pedrero García, E.; Morón Marchena, J. A.; Perea Martínez, M. J. (2025). La educación para la salud en el sistema educativo español. En Educación social: teorías y ámbitos para la investigación y la intervención socioeducativa (pp. 117-130). Octaedro. https://hdl.handle.net/10433/24692
+- Morón-Marchena, J. A. (2025). Educación, salud y transformación sociocomunitaria. En Innovación universitaria y salud: estudios e investigaciones para la transformación sociocomunitaria: aportaciones desde Nicaragua (pp. 11-27). Dykinson.
+- Gallardo-López, J. A.; García-Lázaro, I.; López-Noguero, F. (2025). Los ODS en la enseñanza universitaria del siglo XXI: análisis de las opiniones del alumnado. En Las universidades iberoamericanas «ENGAGED»: comprometidas con el entorno para la prevención, defensa y lucha de los DDHH (pp. 227-232). Dykinson.
+- Machín Álvarez, M.; Gallardo-López, J. A. (2025). Estudio comparado del modelo Bosque Escuela en Inglaterra, Dinamarca y España. En Voces y espacios desde la pedagogía crítica e inclusiva para la renovación pedagógica (pp. 100-112). Octaedro.
+- Gallardo-López, J. A.; López-Noguero, F.; Cobos-Sanchiz, D. (2024). El ocio digital juvenil tras el COVID. Una visión socioeducativa. En Educación Social, estudios e investigaciones (pp. 65-78). Síntesis.
+- Gallardo López, J. A. (2024). Nuevos desafíos, nuevas respuestas: educación y ciberacoso en el mundo digital. En La pedagogía social en una sociedad digital e hiperconectada: desafíos y propuestas (pp. 99-126). Universidad de Salamanca. https://doi.org/10.14201/0AQ0369
+- de-Besa Gutiérrez, M.; Gallardo-López, J. A. (2024). Cultura de Paz y educación Intercultural: análisis de la producción científica de impacto. En Cultura de paz e interculturalidad: estudios en contextos socioeducativos (pp. 217-232). Narcea.
+- del Pino Espejo, M. J.; Morón Marchena, J. A.; Villalba, K. (2024). Reseña del libro Cómo Observar la Moral y las Costumbres de Harriet Martineau. En Lectura fácil: mujeres fundadoras de la sociología y de la teoría social en español o inglés (pp. 29-35). Dykinson.
+- Gallardo-López, J. A.; López-Noguero, F.; Díaz-Esterri, J. (2024). Apoyos sociales y autogestión del tiempo para el bienestar personal: una mirada intercultural para la intervención. En Juventud y autorregulación del tiempo: Intervención socioeducativa para el bienestar integral (pp. 167-183). Dykinson. https://doi.org/10.14679/3066
+- López Noguero, F.; Gallardo López, J. A.; Díaz Esterri, J. (2024). Servicios sociales. Mejora del bienestar de sus profesionales y búsqueda del compromiso de sus usuarios. En Escenarios profesionales de los Servicios Sociales: nuevas propuestas de intervención (pp. 55-74). Narcea.
+- Cotán Fernández, A.; Álvarez Díaz, K.; Márquez Díaz, J. R.; Gallardo López, J. A. (2024). Tecnología, inclusión y aprendizaje: promoviendo una educación inclusiva en las aulas. En Educación y expresión en sociedades inclusivas. El camino hacia la diversidad (pp. 771-788). Dykinson.
+- García Lázaro, I.; García Jiménez, J. (2023). La adaptación de la docencia universitaria motivada por la pandemia de COVID-19 desde la visión del alumnado. En Educar para transformar: Innovación pedagógica, calidad y TIC en contextos formativos (pp. 2454-2462).
+- Gallardo-López, J. A.; López-Noguero, F.; Pedrero-García, E. (2023). El smartphone en Educación Superior: un estudio descriptivo. En Innovación en las universidades: Oportunidades para la transformación docente (pp. 151-162). Octaedro.
+- Gallardo López, J. A. (2023). La mediación intercultural, una herramienta socioeducativa para la prevención y el cambio social. En Teoria e prática da pedagogia social, da mediação intercultural e da intervenção social (pp. 49-60). Edições Afrontamento.
+- García Lázaro, I. (2023). Uso de las TIC como apoyo al alumnado con discapacidad motórica. En Formación del profesorado universitario en TIC como apoyo al alumnado con discapacidad (pp. 35-44). https://idus.us.es/handle/11441/178970
+- Alberto Gallardo-López, J.; García Lázaro, I. (2023). El papel de las emociones en el desarrollo del alumnado de Educación Secundaria. En Educación y Sociedad: Pensamiento e innovación para la transformación social (pp. 1827-1837).
+- Torres-Barzabal, L.; Morón-Marchena, J. A. (2022). De la investigación en ámbitos sociales a la transformación social: A modo de introducción. En Educación y sociedad: Aportaciones de la investigación universitaria a la transformación social (pp. 31-47). Síntesis.
+- Martínez Sánchez, I.; Vasco González, M.; López-Noguero, F.; Gallardo-López, J. A. (2022). Hacia la inclusión social de los jóvenes egresados del sistema de protección. La importancia de sus relaciones socioafectivas. En Jóvenes en dificultad social y su proceso de autonomía (pp. 123-134). Dykinson.
+- García-Lázaro, I.; Gallardo-López, J. A. (2022). Gamificación en Educación Superior: un análisis bibliométrico sobre la producción científica indexada en Scopus (2015-2020). En Investigaciones y proyectos académicos de futuro (pp. 205-215). Tirant Lo Blanch.
+- López-Noguero, F.; Gallardo-López, J. A. (2022). Innovación educativa en la universidad a través de las redes sociales. Twitter como recurso para el aprendizaje colaborativo. En Educar para transformar: Innovación pedagógica, calidad y TIC en contextos formativos (pp. 2608-2619). Dykinson.
+- López-Noguero, F.; García-Gallegos, D. Y.; Carmona Moreno, J. J. (2022). Un diagnóstico participativo en el estuario del Guadalquivir: La relación de la población con el entorno. En El Estuario del Guadalquivir: Aprovechamiento sostenible de sus recursos naturales, culturales y turísticos: Actas del II Congreso: 10 y 11 de marzo 2020, del 16 al 19 de noviembre de 2021 (Coria del Río (Sevilla). Ayuntamiento), pp. 31-36.
+- Hernández Portero, G.; García Lázaro, I. (2022). La autorregulación como herramienta de implicación en elaprendizaje. En Enseñar pensado en todos los estudiantes: el modelo de diseño universal para el aprendizaje (DUA) (pp. 103-125).
+- Sánchez-Lissen, E.; Romero-Pérez, C.; Mateos-Blanco, T.; Morón-Marchena, J. A. (2022). Participación social y cívica del alumnado en la universidad: estudio panorámico. En Educación y sociedad: Aportaciones de la investigación universitaria a la transformación social (pp. 249-266). Síntesis. https://hdl.handle.net/11441/153156
+- Gallardo López, J. A.; López Noguero, F. (2022). Innovación docente y aprendizaje colaborativo en la Enseñanza Superior: análisis de una experiencia sobre el uso didáctico de Twitter. En Innovación docente en tiempos de cambio (pp. 189-200). Octaedro.
+- Gallardo-López, J. A.; López-Noguero, F. (2022). La educación intercultural como base para la transformación social: Un estudio de la producción científica. En Educación y sociedad: Aportaciones de la investigación universitaria a la transformación social (pp. 209-221). Síntesis.
+- Gallardo-López, J. A.; López-Noguero, F.; Pedrero García, E. (2021). El uso del smartphone en Enseñanza Superior ante nuevos escenarios sociales y digitales: Una investigación en tiempos de COVID-19. En Investigación e innovación en educación social: Estudios e investigaciones en tiempos de COVID-19 (pp. 41-54). Octaedro.
+- López Noguero, F.; García Gallegos, D. Y.; Gallardo López, J. A. (2021). Empoderando a la ciudadanía: el diagnóstico participativo en espacios naturales atendiendo a la Agenda 2030. En La dimensión social de la educación: Ciudadanía crítica inclusiva, compromiso y empoderamiento de la cibersociedad, en el marco de la Agenda 2030 (pp. 115-137). Graó.
+- Cobos Sanchiz, D.; Morón Marchena, J. A.; Gallardo López, J. A. (2021). Posibilidades de las redes sociales en educación para la salud como herramienta de empoderamiento ciudadano. En La dimensión social de la educación: Ciudadanía crítica inclusiva, compromiso y empoderamiento de la cibersociedad, en el marco de la Agenda 2030 (pp. 95-114). Graó.
+- Gallardo-López, J. A.; García-Lázaro, I.; López-Noguero, F. (2021). Adult education as a field for innovation in social education: bibliometric analysis of international scientific production. En Educational innovations in pandemic learning contexts: multidisciplinary perspectives (pp. 107-120). Dykinson.
+- del Pozo Serrano, F. J.; López-Noguero, F. (2021). Educación social especializada. En Intervención educativa en contextos sociales: educación social especializada y comunitaria (pp. 3-22). Universidad del Norte.
+- Muñoz Villaraviz, D.; García Lázaro, I. (2021). El aprendizaje-servicio (APS) como metodología en el ámbito educativo. En Innovaciones metodológicas con TIC en educación (pp. 775-794).
+- Morón Marchena, J. A.; Torres Barzabal, L. (2021). Investigación e innovación en Educación Social: construyendo conocimiento. En Investigación e innovación en educación social: Estudios e investigaciones en tiempos de COVID-19 (pp. 9-24). Octaedro.
+- González Faraco, J. C.; Pérez Moreno, H. M.; Morón Marchena, J. A. (2021). Cuando la práctica es impracticable: la política de reconversión de las enseñanzas prácticas del Grado de Educación Social bajo la pandemia. En Investigación e innovación en educación social: Estudios e investigaciones en tiempos de COVID-19 (pp. 113-126). Octaedro.
+- García Lázaro, I.; Alberto Gallardo-López, J. (2020). Gamificación en educación superior: Un estado de la cuestión a través del análisis bibliométrico de la producción científica en Scopus (2015-2020). En Libro de Actas del X Congreso Universitario Internacional sobre Contenidos, Investigación, Innovación y Docencia: (CUICIID 2020) (pp. 1197-0).
+- García Lázaro, I. (2020). Análisis bibliométrico sobre la producción científica de las tic en contextos de diversidad. En Análisis sobre Metodologías activas y TIC para la enseñanza y el aprendizaje (pp. 486-494).
+- Gallardo López, J. A.; López Noguero, F. (2020). El debate social a través de noticias de actualidad como herramienta didáctica en Educación Superior. En Innovación docente: experiencias universitarias en educación social (pp. 89-96). Octaedro.
+- Morón-Marchena, J. A.; Torres-Barzabal, L. (2020). Innovación docente universitaria en Educación Social: a modo de introducción. En Innovación docente: experiencias universitarias en educación social (pp. 9-18). Octaedro.
+- González Faraco, J. C.; Pérez Moreno, H. M.; Morón Marchena, J. A. (2020). El VIH/SIDA en la población joven: un estudio transcultural y socioeducativo. En Educación para la salud y desarrollo comunitario: investigaciones para la mejora social en Nicaragua (pp. 162-177). Octaedro.
+- López-Noguero, F.; Gallardo-López, J. A. (2020). Formación de agentes sociales y animadores socioculturales: una referencia para el desarrollo comunitario en Nicaragua. En Educación para la salud y desarrollo comunitario: investigaciones para la mejora social en Nicaragua (pp. 44-60). Octaedro.
+- Cobos Sanchiz, D.; Pedrero García, E.; Morón Marchena, J. A. (2020). Flipped classroom en educación para la salud: propuesta y experiencia en Educación Social. En Innovación docente: experiencias universitarias en educación social (pp. 141). Octaedro.
+- Morón Marchena, J. A. (2020). Capacidades docentes e investigadoras en Educación para la Salud y Calidad de Vida: investigaciones para la mejora comunitaria en Nicaragua. En Educación para la salud y desarrollo comunitario: investigaciones para la mejora social en Nicaragua (pp. 7-23). Octaedro.
+- López Noguero, F.; Gallardo López, J. A. (2019). Ocio, tiempo libre y salud en personas adultas y mayores. En Educación de personas adultas y mayores (pp. 249-289). UNED.
+- García-Lázaro, I.; Gallardo-López, J. A.; López-Noguero, F. (2019). La inteligencia emocional y la educación emocional en la escuela: Un estado de la cuestión a través del análisis bibliométrico de la producción científica en Scopus (2015-2019). En Inclusión, Tecnología y Sociedad: investigación e innovación en educación (pp. 220-231). Dykinson. https://hdl.handle.net/10433/7689
+- Gallardo-López, J. A. (2019). Accesibilidad a la cultura audiovisual para personas con discapacidad sensorial. En Recursos Educativos para el aula del siglo XXI (pp. 11-19). Adaya Press.
+- García Lázaro, I. (2019). Trabajo colaborativo online en la enseñanza universitaria. Revisión de la literatura científica. En Estrategias y metodologías didácticas: Perspectivas actuales (pp. 70-78).
+- López-Noguero, F. (2018). Educación para la ciudadanía y participación social: Una visión internacional. En Experiencias pedagógicas e innovación educativa: aportaciones desde la praxis docente e investigadora (pp. 2656-2663). Octaedro. https://hdl.handle.net/10433/6411
+- Pedrero García, E.; Muñoz Díaz, M. C.; Morón Marchena, J. A. (2018). Punto de Información Juvenil en Educación para la Salud: propuesta de innovación universitaria. En Innovación docente: nuevos planeamientos (pp. 83-94). Octaedro.
+- López-Noguero, F.; Cruz Díaz, R. (2018). El uso de Twitter en la enseñanza superior como herramienta innovadora en el aula. En Innovación docente: nuevos planeamientos (pp. 65-74). Octaedro.
+- Gallardo-López, J. A. (2018). Educating in emotional competences in the information and communication society. En Education in the Digital Age: An Action Training and Research Approach. UMET.
+- Gallardo López, J. A.; Gallardo Vázquez, P. (2018). Coeducación e igualdad de género. En Experiencias pedagógicas e innovación educativa: aportaciones desde la praxis docente e investigadora (pp. 3397-3409). Octaedro. https://hdl.handle.net/10433/6411
+- Gallardo López, J. A.; Gallardo Vázquez, P. (2018). El juego como herramienta educativa. En Experiencias pedagógicas e innovación educativa: aportaciones desde la praxis docente e investigadora (pp. 3410-3423). Octaedro. https://hdl.handle.net/10433/6411
+- López Noguero, F. (2017). Animación sociocultural, ocio y tiempo libre con adolescentes y jóvenes. Una propuesta de intervención para la prevención de riesgos psicosociales. En Educación para la salud y prevención de riesgos psicosociales: en adolescentes y jóvenes (pp. 222-234). Narcea.
+- Pérez-Pérez, I.; Castillo Manzano, A. J.; Morón Marchena, J. A. (2017). Planificación y elaboración de proyectos socioeducativos. De la teoría a la práctica. En Educación para la salud y prevención de riesgos psicosociales: en adolescentes y jóvenes (pp. 235-252). Narcea.
+- Rabadán Rubio, J.; Morón Marchena, J. A.; Ferrer Peñalver, C. M. (2016). El Aprendizaje Cooperativo en el ámbito universitario. Cambio de paradigma educativo. En La Educación Superior en el Siglo XXI: nuevas características profesionales y científicas (pp. 80-99). UMET Press. https://hdl.handle.net/10433/3169
+- Pérez-Pérez, I.; Morón Marchena, J. A. (2016). Metodología participativa en la universidad: estudio comparado de innovación en el grado de educación social. En La Educación Superior en el Siglo XXI: Una Reflexión desde y para el Profesorado. UMET Press eInnovagogía.
+- López-Noguero, F.; Sarrate Capdevila, M. L. (2015). Una visión internacional del ocio y la juventud en la sociedad actual. En Ocio, formación y empleo en jóvenes en dificultad social (pp. 39-54). Dykinson.
+- Pérez Pérez, I.; Morón Marchena, J. A. (2015). La participación comunitaria como modelo de intervención en educación para la salud. En Investigar e intervenir en educación para la salud (pp. 45-60). Narcea.
+- Morón Marchena, J. A.; Pérez Pérez, I. (2015). Glosario de términos relacionados con la educación para la salud. En Investigar e intervenir en educación para la salud (pp. 161-184). Narcea.
+- López-Noguero, F. (2015). Los nuevos retos de la investigación en educación para la salud. En Investigar e intervenir en educación para la salud (pp. 31-44). Narcea.
+- López-Noguero, F.; Sarrate Capdevila, M. L. (2014). El ocio desde una perspectiva internacional. En Educación y jóvenes en tiempos de cambio (pp. 323-333). UNED.
+- López-Noguero, F.; Cárdenas-Rodríguez, R. (2013). Escenarios y ámbitos. En Animación e intervención sociocultural (pp. 213-275). UNED.
+- Bas Peña, E.; Pérez de Guzmán, V.; Morón Marchena, J. A. (2011). Adicción y exclusión social: intervención educativa. En Exclusión social y diversidad (pp. 193-220). Trillas.
+- Pedrero-García, E.; García Martínez, A.; Morón Marchena, J. A. (2011). El SIDA y la muerte en la obra de Elisabeth Kübler-Ross: una apuesta por la calidad de vida. En La problemática del SIDA: una aproximación socioeducativa (pp. 169-188). Universidad Pablo de Olavide.
+- Morón Marchena, J. A.; López-Noguero, F.; Cobos Sanchiz, D.; Torres Gordillo, J. J. (2011). SIDA: Conocimientos, actitudes y prácticas de riesgo en estudiantes y profesores en el CUR-Chontales de la Universidad Nacional Autónoma de Nicaragua-Managua. En La problemática del SIDA: una aproximación socioeducativa (pp. 35-86). Universidad Pablo de Olavide.
+- García Martínez, A.; Morón Marchena, J. A. (2011). La gente peligrosa ante la exclusión: ¿una batalla perdida?. En Aportaciones a la Educación social: un lustro de experiencias. Universidad de Huelva.
+- Pedrero-García, E.; Morón Marchena, J. A. (2011). Una experiencia en la Universidad: la utilización de blogs y webquest en el ámbito de la educación para la salud. En Formación del profesorado y prácticas digitales (pp. 119-146). Universidad Santiago de Cali.
+- González Faraco, J. C.; León Leal, J. A.; Morón Marchena, J. A.; González Garrido, E. (2011). SIDA, infancia y exclusión social. Bases para un proyecto de investigación socioeducativa. En La problemática del SIDA: una aproximación socioeducativa (pp. 87-106). Universidad Pablo de Olavide.
+- López-Noguero, F.; Pérez Pérez, I. (2011). Espacios y ámbitos de la intervención socioeducativa: hacia una construcción profesional de la Educación Social. En Aportaciones a la Educación social: un lustro de experiencias. Universidad de Huelva.
+- López Noguero, F.; Pérez Pérez, I. (2010). Educar para la democracia y la diversidad cultural. Una visión europea. En Diversidad cultural y atención socioeducativa: una visión desde diferentes prismas (pp. 51-66). Fundación SM.
+- García Martínez, A.; Morón Marchena, J. A. (2010). Hacia una nueva pedagogía intercultural. En Diversidad cultural y atención socioeducativa: una visión desde diferentes prismas (pp. 15-30). Fundación SM.
+- Morón Marchena, J. A.; Castillo Manzano, A. J.; Pedrero García, E.; Muñoz Díaz, M. D. C. (2010). Estudio con perspectiva de género sobre prevalencias, actitudes, patrones y motivaciones de la población universitaria en relación al consumo de drogas en la Universidad Pablo de Olavide. En Educación, salud, y drogodependencias: enfoques, programas y experiencias en ámbitos de exclusión (pp. 542-550). Prodrug Multimedia.
+- Terrón-Caro, M. T.; Morón Marchena, J. A. (2009). La incidencia de la inmigración magrebí en España. En Pluralismo sociocultural, educación e interculturalidad (pp. 323-346). @becedario.
+- López-Noguero, F. (2008). Educar en la diversidad: reto de la sociedad del siglo XXI. En Educación como respuesta a la diversidad: una perspectiva comparada (pp. 17-24). Universidad Pablo de Olavide.
+- Pérez Serrano, M. G.; Pérez de Guzmán, V.; López-Noguero, F. (2008). Valores y actitudes sociopolíticos de los jóvenes europeos. En Educación como respuesta a la diversidad: una perspectiva comparada (pp. 131-133). Universidad Pablo de Olavide.
+- López Noguero, F. (2006). Intervención en personas mayores. Plan general de intervención (PGI). En Intervención y desarrollo integral en personas mayores (pp. 17-42). Universitas.
+- Morón Marchena, J. A.; Castillo Manzano, A. J. (2005). Drogas y Comunidad. Estrategias de prevención comunitaria de las drogodependencias desde el ámbito local. En Drogas, sociedad y educación (pp. 243-258). Universidad de Murcia.
+- López Noguero, F.; Moreno Crespo, P. A.; León Solís, L. (2004). Fuentes y recursos didácticos en la Educación Social. En Educación Social Prácticum (pp. 63-77). Universidad de Huelva.
+- López Noguero, F. (2004). La Titulación de Educación Social. En Educación Social Prácticum (pp. 19-24). Universidad de Huelva.
+- Pérez Serrano, G.; López Noguero, F. (2004). Fundaciones y ámbitos de actuación de la Educación Social. En Educación Social Prácticum (pp. 25-39). Universidad de Huelva.
+- López Noguero, F. (2004). Un nuevo modelo educativo para una sociedad en evolución: La Educación Social. En Educación Social Prácticum (pp. 9-18). Universidad de Huelva.
+- López Noguero, F. (2004). El Prácticum de Educación Social. Aproximación, objetivos, características y organización. En Educación Social Prácticum (pp. 41-48). Universidad de Huelva.
+- López Noguero, F.; Esteban Ibáñez, M.; Tirado Morueta, R.; Ignacio Correa, R. (2004). Desarrollo del Prácticum de Educación Social. En Educación Social Prácticum (pp. 49-61). Universidad de Huelva.
+- López-Noguero, F.; León Solís, L. (2003). Los medios de comunicación social en la sociedad actual: implicaciones educativas. En La galaxia digital: lenguaje y cultura sin fronteras en la era de la información (pp. 169-181). Grupo Editorial Universitario.
+- López Noguero, F. (2002). El ámbito legislativo autonómico de la formación de educadores sociales: análisis de una realidad múltiple. En Realidad y prospectiva de la educación superior. Un enfoque comparado: actas del VII Congreso Nacional de Educación Comparada (Murcia, 22-25 de noviembre de 2000) (pp. 421-432). DM.
+- López Noguero, F. (2002). La función social de la escuela. En La escuela del siglo XXI y otras revoluciones pendientes: ¿una pedagogía de lo imposible? (pp. 23-45). Hergué.
+- López Noguero, F. (2002). La formación de animadores socioculturales. Una propuesta innovadora. En Nuevos retos de la pedagogía social: la formación del profesorado (pp. 386-394). Sociedad Iberoamericana de Pedagogía Social.
+- López-Noguero, F. (2001). Los fenómenos de exclusión y marginación. En Bases psicopedagógicas para la formación inicial del profesor de Educación Secundaria (pp. 73-80). Hergué.
+- Morón Marchena, J. A. (2000). Aportaciones y experiencias para construir (fortalecer) la educación para la salud. En Aportaciones y experiencias en educación para la salud (pp. 11-20). Ayuntamiento de Dos Hermanas.
+- López Noguero, F. (2000). La aplicación de la educación para la salud en los centros escolares. En Aportaciones y experiencias en educación para la salud (pp. 204-208). Ayuntamiento de Dos Hermanas.
+- Morón Marchena, J. A. (2000). La "Educación para la Salud" en los planes de estudio en Ciencias de la Educación. En Aportaciones y experiencias en educación para la salud (pp. 169-183). Ayuntamiento de Dos Hermanas.
+- Morón Marchena, J. A. (1999). Educación para la salud en el marco municipal ¿falacia o utopía?. En Educación para la salud y municipio (pp. 9-30). Ayuntamiento de Dos Hermanas.
+- Morón Marchena, J. A. (1999). Educación para la salud y tabaco: Un reto sociopedagógico. En Educación para la salud y municipio (pp. 145-174). Ayuntamiento de Dos Hermanas.
+- Morón Marchena, J. A. (1999). Transversalidad y educación desde una perspectiva social. En La educación ante el nuevo milenio (pp. 87-104). Signatura Ediciones de Andalucía.
+- Morón Marchena, J. A. (1999). Estudio sociológico sobre el docente a través de los estudiantes: El profesor como persona. En Identidad y cambio en la Educación ante el tercer milenio: reflexiones y propuestas (pp. 107-108). Gipeperse.
+- Morón Marchena, J. A. (1999). Calidad de vida y transversalidad: educación para la salud y educación para el consumo. En La educación ante el nuevo milenio (pp. 131-156). Signatura Ediciones de Andalucía.
+- López-Noguero, F. (1998). La educación popular en España: Dos experiencias concretas. En Educación popular y desarrollo local (pp. 173-180). GISPS.
+- Morón Marchena, J. A. (1998). ¿Por qué la Educación para la salud?: Principios y Perspectivas. En Educación para la salud: fundamentos y metodología (pp. 13-26). Ayuntamiento de Dos Hermanas.
+- Rodríguez García, F.; Morón Marchena, J. A. (1998). ¿Qué son las universidades populares?: Aproximación a unas instituciones "educativas" desconocidas. En Educación popular y desarrollo local (pp. 377-386). GISPS.
+- Morón Marchena, J. A. (1998). Educación para la salud y participación comunitaria: La escuela abierta a la comunidad. En Educación para la salud: fundamentos y metodología (pp. 76-82). Ayuntamiento de Dos Hermanas.
+- Morón Marchena, J. A. (1998). La universidad popular, un agente educativo. En Educación popular y desarrollo local (pp. 283-292). GISPS.
+- López-Noguero, F. (1998). El estrés de los docentes: Una perspectiva socioeducativa. En Educación para la salud: fundamentos y metodología (pp. 101-105). Ayuntamiento de Dos Hermanas.
+- López-Noguero, F. (1996). El animador sociocultural, su formación profesional y ocupacional. En Formación profesional ocupacional: perspectivas de un futuro inmediato (pp. 399-404). Grupo de Investigación Didáctica.
+- González Faraco, J. C.; Morón Marchena, J. A.; de la Rosa Acosta, B. (1996). La problemática de la profesión docente: Un estudio exploratorio en Andalucía. En El profesor en la encrucijada (pp. 123). Universidad de Sevilla.
+- Morón Marchena, J. A. (1996). El profesor ante los alumnos: Un estudio comparado de la opinión sobre los docentes universitarios. En El profesor en la encrucijada (pp. 61-84). Universidad de Sevilla.
+- Morón Marchena, J. A. (1995). Educación para la salud: A modo de introducción. En Educación para la salud: un reto para todos (pp. 15-27). Ayuntamiento de Dos Hermanas.
+- Morón Marchena, J. A. (1995). Reflexiones en torno a la educación para la salud: Un reto actual. En Educación para la salud: un reto para todos (pp. 124-129). Ayuntamiento de Dos Hermanas.
+- Morón Marchena, J. A. (1993). El equipo infancia y educación: Una forma de trabajar. En El rol docente: un enfoque psicosocial (pp. 189-194). Muñoz Moya y Montraveta.
+- Morón Marchena, J. A. (1988). Educación para la salud: Un campo abierto. En Educación para la salud: experiencias e investigaciones en el campo comunitario, social y escolar (pp. 15-26). Ayuntamiento de Dos Hermanas.
+- Morón Marchena, J. A. (1988). La docencia universitaria: Educación para la salud. En Educación para la salud: experiencias e investigaciones en el campo comunitario, social y escolar (pp. 73-78). Ayuntamiento de Dos Hermanas.
