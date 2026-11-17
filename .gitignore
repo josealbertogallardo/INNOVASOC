@@ -1,0 +1,16 @@
+# Sistema
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Archivos temporales de Office
+~$*
+
+# Editores
+.vscode/
+.idea/
+
+# Dependencias / builds (por si se añaden en el futuro)
+node_modules/
+dist/
+.env

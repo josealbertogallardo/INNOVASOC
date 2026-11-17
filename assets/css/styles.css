@@ -1,0 +1,62 @@
+/* Identidad visual INNOVASOC (ver logos/Paleta y tipografías) */
+:root {
+  --verde-azulado: #1C8C88; /* principal */
+  --petroleo: #0E4A4C;      /* fondos */
+  --tinta: #12343B;         /* textos */
+  --ambar: #F2A33A;         /* acento */
+  --bruma: #E3F2F1;         /* fondo claro */
+  --blanco: #FFFFFF;
+
+  --font-titulos: "Sora", system-ui, sans-serif;
+  --font-texto: "Manrope", system-ui, sans-serif;
+
+  --max-width: 1140px;
+  --radius: 14px;
+}
+
+*, *::before, *::after { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  font-family: var(--font-texto);
+  color: var(--tinta);
+  background: var(--blanco);
+  line-height: 1.6;
+}
+
+h1, h2, h3 { font-family: var(--font-titulos); font-weight: 700; line-height: 1.2; }
+h2 { color: var(--verde-azulado); }
+a { color: var(--verde-azulado); }
+img { max-width: 100%; height: auto; }
+
+.container { max-width: var(--max-width); margin: 0 auto; padding: 0 16px; }
+
+/* Cabecera */
+.site-header { position: sticky; top: 0; background: var(--blanco); border-bottom: 1px solid var(--bruma); z-index: 10; }
+.header-inner { display: flex; align-items: center; justify-content: space-between; gap: 1rem; padding-top: .5rem; padding-bottom: .5rem; }
+.brand img { height: 56px; width: auto; display: block; }
+.site-nav { display: flex; gap: 1.25rem; }
+.site-nav a { text-decoration: none; color: var(--tinta); font-weight: 600; }
+.site-nav a:hover { color: var(--verde-azulado); }
+.nav-toggle { display: none; background: none; border: 0; font-size: 1.6rem; color: var(--tinta); cursor: pointer; }
+
+/* Hero */
+.hero { background: var(--petroleo); color: var(--blanco); padding: 5rem 0; }
+.hero h1 { font-size: clamp(2.2rem, 6vw, 4rem); margin: 0; letter-spacing: .04em; }
+.hero .lead { font-size: 1.2rem; margin: .5rem 0 0; border-left: 4px solid var(--ambar); padding-left: .75rem; }
+
+/* Secciones */
+.section { padding: 4rem 0; }
+.section.alt { background: var(--bruma); }
+
+/* Pie */
+.site-footer { background: var(--tinta); color: var(--bruma); padding: 2rem 0; text-align: center; }
+.footer-logo { height: 60px; width: auto; }
+
+/* Móvil */
+@media (max-width: 800px) {
+  .nav-toggle { display: block; }
+  .site-nav { display: none; position: absolute; top: 100%; left: 0; right: 0; flex-direction: column; background: var(--blanco); padding: 1rem 16px; border-bottom: 1px solid var(--bruma); }
+  .site-nav.open { display: flex; }
+  .brand img { height: 44px; }
+}
