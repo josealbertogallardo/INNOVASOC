@@ -12,6 +12,40 @@ if (toggle && nav) {
   }));
 }
 
+// Publicaciones (datos en assets/js/publicaciones.js)
+(() => {
+  const data = window.PUBLICACIONES;
+  if (!data) return;
+  // Apellidos de los miembros del grupo, para destacarlos en la autoría
+  const miembros = [
+    /López[\s-]Noguero, F\./g, /Gallardo[\s-]López, J\. ?A\./g, /Gallardo, A\./g,
+    /Morón[\s-]Marchena, J\. ?A\./g, /García[\s-]Lázaro, I\./g, /Muñoz[\s-]Villaraviz, D\./g,
+    /Yunta Ibarrondo, M\. ?Á\./g, /Delgado Baena, A\./g
+  ];
+  const esc = s => s.replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
+  const autores = a => miembros.reduce((s, re) => s.replace(re, m => `<strong>${m}</strong>`), esc(a));
+
+  document.querySelectorAll('[data-pubs]').forEach(box => {
+    const tipo = box.dataset.pubs;
+    const lista = [...(data[tipo] || [])].sort((x, y) => y.y - x.y);
+    const tab = document.querySelector(`[aria-controls="pub-${tipo}"]`);
+    if (tab) tab.insertAdjacentHTML('beforeend', ` <span class="count">${lista.length}</span>`);
+    if (!lista.length) { box.innerHTML = '<p class="pending">Listado pendiente de completar.</p>'; return; }
+
+    let html = '', anio = null;
+    lista.forEach(p => {
+      if (p.y !== anio) {
+        if (anio !== null) html += '</ol>';
+        anio = p.y;
+        html += `<h4 class="pub-year">${anio}</h4><ol class="pubs">`;
+      }
+      const enlace = p.u ? ` <a class="pub-link" href="${esc(p.u)}" target="_blank" rel="noopener">${p.u.includes('doi.org') ? 'DOI' : 'Acceso abierto'}</a>` : '';
+      html += `<li><span class="pub-authors">${autores(p.a)}</span> (${p.y}). <span class="pub-title">${esc(p.t)}</span>. <span class="pub-source">${esc(p.f)}</span>.${enlace}</li>`;
+    });
+    box.innerHTML = html + '</ol>';
+  });
+})();
+
 // Pestañas (publicaciones)
 document.querySelectorAll('[data-tabs]').forEach(tabs => {
   const buttons = [...tabs.querySelectorAll('[role="tab"]')];
