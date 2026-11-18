@@ -46,6 +46,15 @@ if (toggle && nav) {
   });
 })();
 
+// Fotos del equipo: assets/img/equipo/<data-foto>.jpg (si no existe, se quedan las iniciales)
+document.querySelectorAll('.avatar[data-foto]').forEach(av => {
+  const img = new Image();
+  img.alt = '';
+  img.decoding = 'async';
+  img.onload = () => { av.textContent = ''; av.appendChild(img); };
+  img.src = `assets/img/equipo/${av.dataset.foto}.jpg`;
+});
+
 // Pestañas (publicaciones)
 document.querySelectorAll('[data-tabs]').forEach(tabs => {
   const buttons = [...tabs.querySelectorAll('[role="tab"]')];
